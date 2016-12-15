@@ -15,7 +15,7 @@ Windows, Linux ও Mac তিনটি অপারেটিং সিস্ট�
 কিংবা যদি উবুন্টু ১৬.০৪ ব্যবহার করেন তাহলে – `sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list`
 
 এখন আবার টার্মিনালে নিচের কমান্ড গুলো দিন-
-```r
+```javascript
 gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
 gpg -a --export E084DAB9 | sudo apt-key add -
 sudo apt-get update
