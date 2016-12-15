@@ -31,6 +31,8 @@ Let’s discuss about some sectors where IoT may play some amazing role in near 
 
 Here is an infographic of year 2040 in the eyes of IoT:
 
+->![IoT Infographic](https://raw.githubusercontent.com/abdalimran/abdalimran.github.io/master/images/iot_img.png)<-
+
 There are already some fascinating IoT products as Apple Watch, Philips Lighting, Smart TV, Refrigerators, Washing machine etc. There also exist a smart city named Songdo in South Korea, the world’s first smart city.
 
 Security and privacy are major concerns in IoT—and addressing these concerns is a top priority. These are legitimate concerns. New technology often carries the potential for misuse and mischief, and it’s vital to address the problem before it hinders personal privacy and security, innovation or economic growth. Manufacturers, standards organizations and policy-makers are already responding on several levels.
