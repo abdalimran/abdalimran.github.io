@@ -15,10 +15,14 @@ $lightGray: #eee;
 $white: #fff;
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
 
 // Font stacks
-$helvetica: "EB Garamond", Arial, sans-serif;
-$helveticaNeue: "EB Garamond", "EB Garamond", Arial, sans-serif;
+$helvetica: 'EB Garamond', serif;
+$helveticaNeue: 'EB Garamond', serif;
+$fredericka: 'Fredericka the Great', cursive;
+$elite: 'Special Elite', cursive;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
