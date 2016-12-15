@@ -35,7 +35,7 @@ There are already some fascinating IoT products as Apple Watch, Philips Lighting
 
 Security and privacy are major concerns in IoT—and addressing these concerns is a top priority. These are legitimate concerns. New technology often carries the potential for misuse and mischief, and it’s vital to address the problem before it hinders personal privacy and security, innovation or economic growth. Manufacturers, standards organizations and policy-makers are already responding on several levels.
 
-Now, what do you think about the future of IoT?
+**Now, what do you think about the future of IoT?**
 
 The technologist assumes that by 2032 each person will be surrounded by 3000-5000 smart things in our everyday life. And the Tech experts also estimate that the IoT will consist of almost 50 billion objects and 25 billion devices by 2020.
 
