@@ -1,0 +1,37 @@
+---
+layout: post
+title: ০১ R কিকস্টার্টার – কিছু রিসোর্স ও বই
+---
+এই পোস্টে আমি R প্রোগ্রামিং এর কিছু রিসোর্স শেয়ার করবো। R অনেক বড় একটি প্রোগ্রামিং ল্যাঙ্গুয়েজ। যতই গভীরে যাবেন ততোই নতুন নতুন জিনিস পাবেন শেখার জন্য। R নিয়ে আমি যত লেখা লিখবো সেগুলো অবশ্যই পর্যাপ্ত না। আপনাকে নিজের উদ্যোগে আরো অনেক ঘেঁটে ঘেঁটে শিখতে হবে। এই রিসোর্সগুলো খুবি উপকারি, তাই আশা করছি রিসোর্সগুলোর সম্পুর্ণ স্বদব্যবহার করবেন।
+
+## বইঃ
+    ☛ [R For Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+    ☛ [R Programming](https://en.wikibooks.org/wiki/R_Programming)
+    ☛ [R Cookbook](https://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/)
+    ☛ [R in Action: Data Analysis and Graphics with R](https://www.amazon.com/Action-Data-Analysis-Graphics/dp/1617291382/)
+    ☛ [The Book of R: A First Course in Programming and Statistics](https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516/) 
+    ☛ [R for Everyone: Advanced Analytics and Graphics](https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030/)
+    ☛ [Beginning R: An Introduction to Statistical Programming](https://www.amazon.com/Beginning-R-Introduction-Statistical-Programming/dp/1484203747/)
+## R এডিটর/IDE:
+    ☛ [RStudio](https://www.rstudio.com/home/)
+## MOCC কোর্সঃ 
+    ☛ [R Programming](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-1)
+    ☛ [Programming with R for Data Science](https://prod-edx-mktg-edit.edx.org/course/programming-r-data-science-microsoft-dat209x-0)
+    ☛ [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
+    ☛ [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-1)
+## ব্লগ ও টিউটোরিয়ালঃ
+    ☛ [A Hands-on Introduction to Statistics with R](https://www.datacamp.com/introduction-to-statistics)
+    ☛ [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+    ☛ [The R Manuals](https://cran.r-project.org/manuals.html)
+    ☛ [Try R](https://www.codeschool.com/courses/try-r)
+    ☛ [R-bloggers](http://www.r-bloggers.com/)
+    ☛ [ProgrammingR](http://www.programmingr.com/)
+    ☛ [R-statistics blog](https://www.r-statistics.com/)
+## মেইলিং লিস্ট, ফোরাম, হেল্পঃ
+    ☛ [Nabble](http://r.789695.n4.nabble.com/)
+    ☛ [Reddit R Programming](https://www.reddit.com/r/programming/)
+    ☛ [R-help -- Main R Mailing List](https://stat.ethz.ch/mailman/listinfo/r-help)
+## অন্যান্যঃ
+    ☛ [r-dir](https://r-dir.com/)
+    ☛ [CRAN-The Comprehensive R Archive Network](https://cran.r-project.org/)
+এখানে শুধু আমার পরিচিত/আমি নিজে যেসব ব্যবহার করেছি সেসব রিসোর্স শেয়ার করা হয়েছে। এর বাইরেও অনেক রিসোর্স আছে। কেউ যদি ভালো কোন রিসোর্স পেয়ে থাকেন তাহলে কমেন্টে জানান, আমি পোস্টে অ্যাড করে দিবো।
