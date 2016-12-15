@@ -262,12 +262,17 @@ nav {
   }
 
   table {
-  padding: 0; }
+  padding: 0;}
   table tr {
-    border-top: 1px solid #cccccc;
+    border-top: 1px solid $gray;
     background-color: white;
+    font-size:  15px;
     margin: 0;
     padding: 0; }
+
+    thead th { 
+      text-align:center; 
+      background:#D9EDF7;}
     table tr:nth-child(2n) {
       background-color: #f8f8f8; }
     table tr th {
@@ -285,6 +290,12 @@ nav {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
   margin-bottom: 0; }
+
+  code, tt {
+      font-size:  15px;
+      margin: 0 2px;
+      padding: 0 5px;
+      border-radius: 2px; }
 
   .comments {
     margin-top: 10px;
