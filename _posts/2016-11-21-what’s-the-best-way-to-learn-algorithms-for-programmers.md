@@ -10,18 +10,25 @@ Reading a book is very essential because every topic is described in detail into
 
 **For books** I will recommend —
 1: [Introduction to Algorithms: Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen](http://www.amazon.com/Introduction-Algorithms-Second-Edition-Thomas/dp/0262032937)
+
 2: [Algorithms (4th Edition): Robert Sedgewick, Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
+
 3: [The Algorithm Design Manual: Steven Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 
 **Some online resources:**
 [Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+
 [Algorithms — GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 **Resources to practice:**
 1: [LightOJ Problems](http://http//lightoj.com/volume_problemcategory.php)
+
 2: [World of Seven — Methods to Solve](http://www.comp.nus.edu.sg/%7Estevenha/methodstosolve.html)
+
 3: [A2 Online Judge](http://a2oj.com/Categories.jsp)
+
 4: [HackerRank](https://www.hackerrank.com/domains)
+
 5: [CodeForces](http://codeforces.com/problemset)
 
 **Now come to the steps:**
