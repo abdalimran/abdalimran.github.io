@@ -14,9 +14,11 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica: "EB Garamond", Arial, sans-serif;
+$helveticaNeue: "EB Garamond", "EB Garamond", Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
