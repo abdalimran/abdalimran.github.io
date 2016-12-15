@@ -2,7 +2,7 @@
 layout: post
 title: What’s the best way to learn algorithms for programmers?
 date: 2016-11-21 11:45:45 +06:00
---
+---
 
 Once I was asked this question on [Quora](https://www.quora.com/Whats-the-best-way-to-learn-algorithms-for-programmers). My answer got 17.7k Views and many upvotes. The person who asked the question needed some specific learning path & resources. When I was used to do competitive programming and learn algorithms, I followed some steps to learn algorithms. Those steps were best fit for me. May be those steps can be helpful for you also. So, here I am sharing my learning steps –
 
