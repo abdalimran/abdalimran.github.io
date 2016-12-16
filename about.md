@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 ---
-# Hello World!
+# Hello World!!
 I am Abdullah Al Imran. I have great passion for Computer Science, Technology and more specifically for Computer Programming. The adventurous and beautiful world of computer programming took all of my dedication towards it. That passion for programming drove me to pursue a degree on CSE.
 
 I am currently doing B.Sc in Computer Science & Engineering at American International University-Bangladesh. I am a proud citizen of **Bangladesh** and currently living in **Dhaka**.
@@ -17,4 +17,4 @@ Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
 Skype: abdalimran
 
 # Visit my professional LinkedIn profile..
-LinkedIn: [Abdullah Al Imran](https://www.linkedin.com/in/abdalimran)
+LinkedIn Resume: [Abdullah Al Imran](https://bd.linkedin.com/in/abdalimran)
