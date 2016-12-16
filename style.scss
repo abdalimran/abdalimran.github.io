@@ -234,8 +234,9 @@ nav {
     letter-spacing: 0.5px;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+      margin: 0 8px;
+      color: #007B13;
+      letter-spacing: 0.5px;
     }
   }
 }
