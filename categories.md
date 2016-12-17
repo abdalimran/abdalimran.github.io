@@ -12,7 +12,7 @@ permalink: /categories/
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
 	    <article class="archive-item">
-	      &nbsp; &nbsp; &nbsp; &nbsp;<span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+	      &nbsp; &nbsp; &nbsp; &nbsp;<span>{{ post.date | date_to_string }}</span> &nbsp; <a target="_blank" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
 	    </article>
     {% endfor %}
   </div>
