@@ -33,7 +33,7 @@ Let’s discuss about some sectors where IoT may play some amazing role in near 
 
 Here is an infographic of year 2040 in the eyes of IoT:
 
-![alt text](https://raw.githubusercontent.com/abdalimran/abdalimran.github.io/master/images/iot_img.png "IoT Infographic")
+![alt text](/images/iot_img.png "IoT Infographic")
 
 There are already some fascinating IoT products as Apple Watch, Philips Lighting, Smart TV, Refrigerators, Washing machine etc. There also exist a smart city named Songdo in South Korea, the world’s first smart city.
 
