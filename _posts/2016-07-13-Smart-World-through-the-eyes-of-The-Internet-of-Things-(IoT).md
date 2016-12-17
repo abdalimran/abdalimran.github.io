@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Smart World through the eyes of "The Internet of Things (IoT)"
+categories: IoT
 ---
+
 Imagine a day when you come out in a hurry from your home, go to your office or market and you forget whether you’ve locked the door or not. You forget to switch off the lights of your room or to extinguish the oven. Now what will happen? Would you like to come back to your home? No! It’s not a smart idea in the world of IoT. Just take your smartphone out of your pocket, open an app and lock the door, switch off the lights and extinguish the oven. And obviously you can do the same from anywhere in the world. The IoT technology has made this amazing scenario possible in our daily life and that’s why the Internet of Things is a buzzword at the present.
 
 Now let’s know what IoT actually is – “The Internet of Things (IoT) is a scenario in which objects, animals or people are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. IoT has evolved from the convergence of wireless technologies, micro-electromechanical systems (MEMS) and the Internet.”
