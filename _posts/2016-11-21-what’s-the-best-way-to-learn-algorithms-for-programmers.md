@@ -46,4 +46,4 @@ I follow **“Learning by doing”** philosophy.
 
 To me this my best way to learn algorithms.
 
-Best of luck.
+Best of luck. :thumbsup:
