@@ -220,7 +220,7 @@ nav {
   font-weight: bold;
 
   @include mobile {
-    float: none;
+    float: center;
     margin-top: 9px;
     display: block;
     font-family: $elite;
