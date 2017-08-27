@@ -18,14 +18,14 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $gray;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 950px;
   padding: 0 10px;
   width: 100%;
 }
