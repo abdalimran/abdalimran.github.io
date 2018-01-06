@@ -51,10 +51,10 @@ Data Science, Machine Learning, Deep Learning, Big Data, Programming languages a
 
 
 # How to reach me?
-Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
+* Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
 
 
 # Visit my professional LinkedIn profile..
-LinkedIn Resume: <a href="https://bd.linkedin.com/in/abdalimran" target="_blank">Abdullah Al Imran</a>
+* LinkedIn: <a href="https://bd.linkedin.com/in/abdalimran" target="_blank">Abdullah Al Imran</a>
 
 <a href="https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM" target="_blank">Download my CV</a>
