@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!!
-permalink: /about/
+permalink: /
 ---
 I am Abdullah Al Imran. I have great passion for Computer Science, Technology and more specifically for Computer Programming. The adventurous and beautiful world of computer programming took all of my dedication towards it. That passion for programming drove me to pursue a degree on CSE.
 
