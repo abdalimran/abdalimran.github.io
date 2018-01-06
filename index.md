@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /
 ---
-I am Abdullah Al Imran. I am a passionate programmer, data science and machine learning enthusiast with great algorithmic and analytical skills. I have the true passion for research, development, learning, teaching and sharing knowledge. I am skilled in Python, Java SE, C/C++, R, Database, Android and Linux. I love problem-solving and taking challenges.
+Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data science and machine learning enthusiast with great algorithmic and analytical skills. I have the true passion for research, development, learning, teaching and sharing knowledge. I am skilled in Python, Java SE, C/C++, R, Database, Android and Linux. I love problem-solving and taking challenges.
 
 # Experience
-* **Research Assitant** at [Data & Design Lab, University of Dhaka](https://www.dndlab.org)[newtab]
-* **Chief Event Officer & Altruist** at [Higher Study Abroad Foundation](https://www.higherstudyabroad.com/)[newtab]
+* **Research Assitant** at [Data & Design Lab, University of Dhaka](https://www.dndlab.org){:target="_blank"}
+* **Chief Event Officer & Altruist** at [Higher Study Abroad Foundation](https://www.higherstudyabroad.com/){:target="_blank"}
 
 
 # Core Interests
@@ -55,6 +55,6 @@ Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
 
 
 # Visit my professional LinkedIn profile..
-LinkedIn Resume: [Abdullah Al Imran](https://bd.linkedin.com/in/abdalimran)[newtab]
+LinkedIn Resume: [Abdullah Al Imran](https://bd.linkedin.com/in/abdalimran){:target="_blank"}
 
-#### [Download my CV](https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM)[newtab]
+#### [Download my CV](https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM){:target="_blank"}
