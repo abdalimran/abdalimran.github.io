@@ -10,7 +10,7 @@ I am Abdullah Al Imran. I am a passionate programmer, data science and machine l
 * **Chief Event Officer & Altruist** at [Higher Study Abroad Foundation](https://www.higherstudyabroad.com/)
 
 
-# Interests
+# Research Interests
 Data Science, Machine Learning, Deep Learning, Big Data, Programming languages and Frameworks, Problem Solving and Competitive Programming, Mobile Technology and Development.
 
 
