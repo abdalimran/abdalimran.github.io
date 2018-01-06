@@ -7,8 +7,10 @@ I am Abdullah Al Imran. I am a passionate programmer, data science and machine l
 
 # Education
 * B.Sc. In Computer Science & Engineering
-  **Institute:** American International University-Bangladesh (AIUB)
-  **CGPA:** 3.50 / 4.00
+
+ **Institute:** American International University-Bangladesh (AIUB)
+
+ **CGPA:** 3.50 / 4.00
 
 
 # How to reach me?
