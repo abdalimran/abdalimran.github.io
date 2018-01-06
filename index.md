@@ -7,7 +7,7 @@ Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data scie
 
 # Experience
 * **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a>
-* **Chief Event Officer & Altruist** at [Higher Study Abroad Foundation](https://www.higherstudyabroad.com/){:target="_blank"}
+* **Chief Event Officer & Altruist** at <a href="https://www.higherstudyabroad.com/" target="_blank">Higher Study Abroad Foundation</a>
 
 
 # Core Interests
@@ -55,6 +55,48 @@ Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
 
 
 # Visit my professional LinkedIn profile..
-LinkedIn Resume: [Abdullah Al Imran](https://bd.linkedin.com/in/abdalimran){:target="_blank"}
+LinkedIn Resume: <a href="https://bd.linkedin.com/in/abdalimran" target="_blank">Abdullah Al Imran</a>
 
-#### [Download my CV](https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM){:target="_blank"}
+<a href="https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM" target="_blank">Download my CV</a>
+<a href="#" class="myButton">graphicriver</a>
+
+.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
+	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
+	background-color:#007dc1;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
+	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
