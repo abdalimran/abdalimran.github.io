@@ -9,7 +9,7 @@ I am Abdullah Al Imran. I am a passionate programmer, data science and machine l
 * B.Sc. In Computer Science & Engineering
   * **Institute:** American International University-Bangladesh (AIUB)
   * **CGPA:** 3.50 / 4.00
-• Higher School Certificate (HSC)
+* Higher School Certificate (HSC)
   * **Institute:** Dhaka College
   * **GPA:** 5.00 / 5.00
 
