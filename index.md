@@ -7,7 +7,7 @@ Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data scie
 
 # Experience
 * **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a><br>
- * Data & Design Labis a research laboratory in the Department of Computer Science and Engineering, University of Dhaka. The main research goal of the lab is to generate actionable knowledge using data analytics and to develop applications firmly based on HCI design principles. This is the place for Data Scientists and people who work in the exciting field of Human-Computer Interaction.
+    * Data & Design Labis a research laboratory in the Department of Computer Science and Engineering, University of Dhaka. The main research goal of the lab is to generate actionable knowledge using data analytics and to develop applications firmly based on HCI design principles. This is the place for Data Scientists and people who work in the exciting field of Human-Computer Interaction.
 * **Chief Event Officer & Altruist** at <a href="https://www.higherstudyabroad.com/" target="_blank">Higher Study Abroad Foundation</a>
 
 
