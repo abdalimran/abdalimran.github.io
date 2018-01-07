@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Hello World!!
 permalink: /
 ---
-Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data science and machine learning enthusiast with great algorithmic and analytical skills. I have the true passion for research, development, learning, teaching and sharing knowledge. I am skilled in Python, Java SE, C/C++, R, Database, Android and Linux. I love problem-solving and taking challenges.
+This is Abdullah Al Imran. I am a passionate programmer, data science and machine learning enthusiast with great algorithmic and analytical skills. I have the true passion for research, development, learning, teaching and sharing knowledge. I am skilled in Python, Java SE, C/C++, R, Database, Android and Linux. I love problem-solving and taking challenges.
 
 # Experience
 * **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a> _[December, 2017 - Present]_
