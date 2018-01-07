@@ -6,7 +6,7 @@ permalink: /
 Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data science and machine learning enthusiast with great algorithmic and analytical skills. I have the true passion for research, development, learning, teaching and sharing knowledge. I am skilled in Python, Java SE, C/C++, R, Database, Android and Linux. I love problem-solving and taking challenges.
 
 # Experience
-* **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a _[December, 2017 - Present]_
+* **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a> _[December, 2017 - Present]_
     * Data & Design Labis a research laboratory in the Department of Computer Science and Engineering, University of Dhaka. The main research goal of the lab is to generate actionable knowledge using data analytics and to develop applications firmly based on HCI design principles. This is the place for Data Scientists and people who work in the exciting field of Human-Computer Interaction.
 * **Chief Event Officer & Altruist** at <a href="https://www.higherstudyabroad.com/" target="_blank">Higher Study Abroad Foundation</a> _[January, 2014 - Present]_
     * HigherStudyAbroad, also known as HSA is an OpenSource platform based in Bangladesh. We are Bangladeshis staying abroad, all working together to inspire Bangladeshi students about higher studies & to connect expatriate academic and professional people for upliftment of our country.
