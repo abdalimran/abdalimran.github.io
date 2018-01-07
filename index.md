@@ -7,6 +7,7 @@ Hello World!! This is Abdullah Al Imran. I am a passionate programmer, data scie
 
 # Experience
 * **Research Assitant** at <a href="https://www.dndlab.org" target="_blank">Data & Design Lab, University of Dhaka</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
 * **Chief Event Officer & Altruist** at <a href="https://www.higherstudyabroad.com/" target="_blank">Higher Study Abroad Foundation</a>
 
 
