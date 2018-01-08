@@ -32,11 +32,7 @@ Data Science, Machine Learning, Deep Learning, Big Data, Programming languages a
 
 
 # Technical Skills
-* **Programming Languages:**
-   * Python &nbsp;&nbsp; ░░░░░░░░░░░░░░░░░░ 90%
-   * Java SE &nbsp;&nbsp;░░░░░░░░░░░░░░░░ 80%
-   * C++ &nbsp;&nbsp;    ░░░░░░░░░░░░░░░ 85%
-   * R &nbsp;&nbsp;      ░░░░░░░░░░░░░░░░░░ 90%
+* **Programming Languages:** Python, R, Java SE, C/C++
 * **Development Skills:** Android, GUI Applications, Web Development (PHP, JS, HTML, CSS)
 * **Distributions & Frameworks:** Anaconda Python, Pandas, NumPy, SciPy, ggplot2, dplyr, JavaFX
 * **Version Control:** Git, SVM
