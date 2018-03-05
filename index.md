@@ -14,8 +14,8 @@ This is Abdullah Al Imran. I am a passionate programmer, data science and machin
 
 
 
-# Core Interests
-Data Science, Machine Learning, Deep Learning, Big Data, Programming languages and Frameworks, Problem Solving, Cognitive Psychology.
+# Research Interests
+Data Science, Machine Learning, Deep Learning, Big Data, Cognitive Psychology.
 
 
 # Education
@@ -28,7 +28,7 @@ Data Science, Machine Learning, Deep Learning, Big Data, Programming languages a
 * Secondary School Certificate (SSC) _[2006-2011]_
   * **Institute:** Shamsul Hoque Khan School & College
   * **GPA:** 5.00 / 5.00
-  * Achieved 69th merit position in Dhaka Board and awarded with Govt. Scholarship in SSC.
+  * Achieved *69th merit position in Dhaka Board* and awarded with *Govt. Scholarship* in SSC.
 
 
 # Technical Skills
