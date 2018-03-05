@@ -61,4 +61,4 @@ Data Science, Machine Learning, Deep Learning, Big Data, Cognitive Psychology.
 # Visit my professional LinkedIn profile..
 * LinkedIn: <a href="https://bd.linkedin.com/in/abdalimran" target="_blank">Abdullah Al Imran</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM" target="_blank">Download my CV</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/open?id=1u4Lhdsussgbd7-8t_VkXa5SGHZ0JoziM" target="_blank"><b>Download my CV</b></a>
