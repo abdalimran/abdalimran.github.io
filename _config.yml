@@ -1,36 +1,11 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site settings
+title:          Abdullah Al Imran
+description:    "{Data Science & ML Aficionado, Wisdom Seeker}"
+baseurl:        ""
+url:            ""
 
-# Name of your site (displayed in the header)
-name: Abdullah Al Imran
-
-# Short bio or description (displayed in the header)
-description: '{Passionate Programmer, Data Science & ML Enthusiast, Wisdom Seeker}'
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# Avatar
 avatar: /images/abdalimran-logo.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: abdalimran@gmail.com
-  facebook: abdalimran
-  flickr:
-  github: abdalimran
-  instagram:
-  linkedin: abdalimran
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: AbdullahAlImran
-  stackoverflow: users/story/3989705
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -39,50 +14,47 @@ disqus: abdullah-al-imran
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-87754832-1
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+# Author
+author:
+  name:            Imran
+  url:          https://abdalimran.github.io
+  email:        abdalimran@gmail.com
+  facebook:         abdalimran
+  twitter:          AbdullahAlImran
+  github:           abdalimran
+  stackoverflow:    abdalimran
+  quora:            Abdullah-Al-Imran-1
+  linkedin:         abdalimran
+  googlePlus:       abdalimran
+  reddit:           abdalimran
+  medium:           abdullah-al-imran
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# Copyright Info
+copyright:
+  year:             2018
+  name:             Abdullah Al Imran
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
-permalink: /:categories/:title
+# Build settings
+markdown:       kramdown
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
+# Assets
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  sass_dir:     _sass
+  style:        compressed
 
-# Use the following plug-ins
-gems:
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-admin
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-seo-tag # Doing SEO for blog
   - jemoji
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5

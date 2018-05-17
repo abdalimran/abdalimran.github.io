@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Posts by Category
-permalink: /categories/
+layout: archive
+title: Archive
+permalink: /archive/
 ---
 
 <div id="archives">
