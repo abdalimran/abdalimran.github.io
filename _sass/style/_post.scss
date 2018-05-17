@@ -15,16 +15,24 @@
   &-title {
     color: $default-shade;
     font-family: $sans-serif;
-    font-size: 4rem;
+    font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
   }
 
+  &-readtime{
+    color: $default-tint;
+    font-family: $serif-secondary;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin-top: -1em;
+  }
+
   &-line {
-    border-top: 0.4rem solid $default-shade;
+    border-top: 0.2rem solid $grey-1;
     display: block;
     margin: 0 auto 3rem;
-    width: 4rem;
+    width: 5rem;
   }
 
   p {
@@ -47,5 +55,16 @@
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;
+  }
+
+  img.emoji {
+    display: inline-block;
+    left: 0;
+    transform: none;
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+    padding: 0;
+    margin: 0;
   }
 }

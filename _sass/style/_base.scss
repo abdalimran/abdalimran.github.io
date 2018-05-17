@@ -63,3 +63,31 @@ img {
 td {
   vertical-align: top;
 }
+
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: left;
+  font-family: $serif-primary;
+  font-size: 8pt;
+  color: lighten($default-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-2;
+  tr {
+    &:nth-child(even) {
+      background-color: $table-row;
+    }
+  }
+  th, td {
+    padding: (1rem / 3) (1rem / 2);
+  }
+  th {
+    background-color: lighten($grey-2, 3%);
+    border: 1px solid darken($grey-3, 4%);
+    border-bottom-color: darken($grey-3, 12%);
+  }
+  td {
+    border: 1px solid $grey-2;
+  }
+}

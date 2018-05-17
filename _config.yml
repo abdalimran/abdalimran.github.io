@@ -16,9 +16,9 @@ google_analytics: UA-87754832-1
 
 # Author
 author:
-  name:            Imran
-  url:          https://abdalimran.github.io
-  email:        abdalimran@gmail.com
+  name:             Imran
+  url:              https://abdalimran.github.io
+  email:            abdalimran@gmail.com
   facebook:         abdalimran
   twitter:          AbdullahAlImran
   github:           abdalimran
@@ -27,7 +27,8 @@ author:
   linkedin:         abdalimran
   googlePlus:       abdalimran
   reddit:           abdalimran
-  medium:           abdullah-al-imran
+  medium:           abdalimran
+  rss:              feed.xml
 
 # Copyright Info
 copyright:

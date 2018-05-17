@@ -25,6 +25,8 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
+    font-family: $title-font;
+    font-size:2.1em;
     color: $default-color;
     display: inline-block;
     margin: 0;
@@ -61,7 +63,7 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: $default-shade;
     font-family: $serif-secondary;
   }
 }
@@ -88,7 +90,7 @@ footer {
 
   span {
     color: $default-color;
-    font-size: .8rem;
+    font-size: 1rem;
   }
 
   &-link {
@@ -98,5 +100,16 @@ footer {
       color: $base-color;
       margin: 4px;
     }
+  }
+
+  .fa {
+      color : $default-shade;
+      padding: 0.2rem;
+      font-size: 1.5em;
+      margin-bottom:1em;
+      &:hover,
+      &:focus {
+        color: $blue;
+      }
   }
 }

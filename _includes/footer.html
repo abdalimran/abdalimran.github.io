@@ -38,6 +38,10 @@
     <a target="_blank" href="https://medium.com/@{{ site.author.medium }}"><i class="fa fa-medium" aria-hidden="true"></i></a>
     {% endif %}
 
+    {% if site.author.rss %}
+    <a target="_blank" href="{{ site.baseurl }}{{ site.author.rss }}"><i class="fa fa-rss" aria-hidden="true"></i></a>
+    {% endif %}
+
     {% if site.author.email %}
     <a target="_blank" href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     {% endif %}
