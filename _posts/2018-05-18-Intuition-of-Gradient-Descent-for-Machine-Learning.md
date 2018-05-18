@@ -6,7 +6,7 @@ mathjax: true
 ---
 The most challenging part of Machine Learning is “optimization”. Gradient Descent is one of the most popular optimization algorithms used in Machine Learning. There are many powerful ML algorithms that use gradient descent such as linear regression, logistic regression, support vector machine (SVM) and neural networks.
 
-Many of us are already familiar with Gradient Descent but have bitter experience in understanding it. When we think about gradient descent, we remember the terrible mathematical formula and see some horrible pictures of the 3D surface plot in our eyes like the following -
+Many of us are already familiar with Gradient Descent but have bitter experience in understanding it. When we think about gradient descent, we remember the terrible mathematical formula and see some horrible pictures of the 3D surface plot in our eyes like the following-
 
 ![alt text](/images/surface_plot.jpg "Surface Plot")
 
@@ -20,7 +20,7 @@ Let’s say, we put a ball on the upper edge of a pond and give a little push on
 
 Now, let’s discuss some childhood mathematical concepts.
 
-Let, we have a function, $f(x) = x^2+5$, and we also have some values of $x$. 
+Let, we have a function, $f(x) = x^2+5$, and we also have some values of $x$.\
 $x =−6,−5,−4,−3,−2,−1,0,1,2,3,4,5,6$
 
 Now, our task is to find the minimum value of the function. That means, we need to find such an input value for the $x$ for which we’ll get the minimum output value from $y$.
@@ -192,6 +192,6 @@ This is the intuition behind gradient descent algorithm.
 
 In this article, I’ve used a simple function with one parameter. But to feel the real advantage of gradient descent, we need to work with multiple parameterized function. In the next article, I’ll show how can we use gradient descent to minimize the error of Linear Regression. There we’ll work with multiple parameters.
 
-Till then practice what you’ve learnt from this article. :smilye:
+Till then practice what you’ve learnt from this article. :smiley:
 
 **Constructive criticism will be appreciated.**
