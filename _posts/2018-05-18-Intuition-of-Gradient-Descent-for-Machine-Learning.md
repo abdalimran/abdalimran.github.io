@@ -20,7 +20,8 @@ Let’s say, we put a ball on the upper edge of a pond and give a little push on
 
 Now, let’s discuss some childhood mathematical concepts.
 
-Let, we have a function, $f(x) = x^2+5$, and we also have some values of $x$.\
+Let, we have a function, $f(x) = x^2+5$, and we also have some values of $x$.
+
 $x =−6,−5,−4,−3,−2,−1,0,1,2,3,4,5,6$
 
 Now, our task is to find the minimum value of the function. That means, we need to find such an input value for the $x$ for which we’ll get the minimum output value from $y$.
@@ -88,21 +89,22 @@ Now, it’s time to know about the Gradient Descent. Let’s see how can it help
 ## Gradient Descent:
 Gradient Descent is a first order iterative optimization algorithm that finds the minimum value of a function.
 
-We’ll know what it means by “first order” and “iterative” later.
+We’ll know what it means by **"first order"** and **"iterative"** later.
 
 **The formula used in Gradient Descent:**
+
 $x_{n+1} = x_n - \gamma \cdot \nabla F(x_n)$
 
 The formula will tell us the next position of the ball. It’ll tell us the direction of downward slope with the number of units to roll.
-You’ll find this formula written with different notation as follows –
+You’ll find this formula written with different notation as follows–
 * $\theta_1 = \theta_0 - \alpha \cdot f^{\prime}(\theta_0)$
 * $a_{n+1} = a_n - \gamma \cdot \nabla F(a_n)$
 
 Now, let’s learn the meaning of the notations used in the formula-
-* **$x_{n+1} =$  The new position. The direction of the downward slope with the number of units to roll.**
-* **$x_n  =$ The current position.**
-* **$\gamma =$ Learning rate or step size. (We can set it by our own.)**
-* **$\nabla F(x_n) =$ The gradient of function $F$ for the point $x_n$.**
+* **$x_{n+1} =$** The new position. The direction of the downward slope with the number of units to roll.
+* **$x_n  =$** The current position.
+* **$\gamma =$** Learning rate or step size. (We can set it by our own.)
+* **$\nabla F(x_n) =$** The gradient of function $F$ for the point $x_n$.
 
 As we told before, we can set the value of **$\gamma$ (Learning rate)** and we can also set the current position of $x$. The thing we need to think about is how to find **$\nabla F(x_n)$**.
 
