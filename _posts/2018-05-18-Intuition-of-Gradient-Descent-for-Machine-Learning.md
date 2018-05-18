@@ -27,7 +27,7 @@ Now, our task is to find the minimum value of the function. That means, we need 
 
 Now, let’s put all the given values of $x$ into the function and see the output values of $y$.
 
-| x| y =  f(x) = x^2+5| 
+| x| y = f(x) = x² + 5| 
 |:--: |:--:|
 |-6 |41|
 | -5|30|
