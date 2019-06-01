@@ -66,6 +66,8 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 
+from sklearn.metrics import roc_curve, roc_auc_score
+
 # Instantiate the classfiers and make a list
 classifiers = [LogisticRegression(random_state=1234), 
                GaussianNB(), 
@@ -105,12 +107,14 @@ for i in result_table.index:
 plt.plot([0,1], [0,1], color='orange', linestyle='--')
 
 plt.xticks(np.arange(0.0, 1.1, step=0.1))
-plt.xlabel("Flase Positive Rate")
+plt.xlabel("Flase Positive Rate", fontsize=15)
 
 plt.yticks(np.arange(0.0, 1.1, step=0.1))
-plt.ylabel("True Positive Rate")
+plt.ylabel("True Positive Rate", fontsize=15)
 
-plt.legend(loc=4)
+plt.title('ROC Curve Analysis', fontweight='bold', fontsize=15)
+plt.legend(prop={'size':13}, loc='lower right')
+
 plt.show()
 {% endhighlight %}
 
