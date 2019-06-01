@@ -7,7 +7,7 @@ category:
 mathjax: true
 ---
 
-# What is AUC-ROC Curve?
+## What is AUC-ROC Curve?
 
 AUC-ROC curve is a performance metric for binary classification problem at different thresholds. 
 ROC is a probability curve and AUC represents the degree or measure of separability. 
@@ -21,7 +21,7 @@ Plotting multiple ROC-Curves in a single figure makes it easier to analyze model
 
 Let's begin. We'll use *Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn* to accomplish this task.
 
-# Importing the necessary libraries
+## Importing the necessary libraries
 {% highlight python %}
 import pandas as pd
 import numpy as np
@@ -34,7 +34,7 @@ import warnings
 warnings.filterwarnings('ignore')
 {% endhighlight %}
 
-# Making a toy Dataset
+## Making a toy Dataset
 {% highlight python %}
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
@@ -49,7 +49,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y,
                                                     random_state=1234)
 {% endhighlight %}
 
-# Training multiple classifiers and recording the results
+## Training multiple classifiers and recording the results
 In this phase we'll perform a few steps:
 1. Instantiate the classifiers and make a list
 2. Define a result table as a DataFrame
@@ -93,7 +93,7 @@ for cls in classifiers:
 result_table.set_index('classifiers', inplace=True)
 {% endhighlight %}
 
-# Plot the figure
+## Plot the figure
 {% highlight python %}
 fig = plt.figure(figsize=(8,6))
 
