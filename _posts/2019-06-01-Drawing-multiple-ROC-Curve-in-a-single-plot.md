@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Drawing multiple ROC-Curve in a single plot
-category: Visualization, Machine Learning
+category: 
+  - "Visualization"
+  - "Machine Learning"
 mathjax: true
 ---
 
@@ -17,7 +19,7 @@ The ROC curve is plotted with **False Positive Rate** in the **x-axis** against 
 You may face such situations where you run multiple models and try to plot the ROC-Curves for each model in a single plot. 
 Plotting multiple ROC-Curves in a single figure makes it easier to analyze model performances and find out the best performing model.
 
-Lets begin. We'll use *Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn* to accomplish this task.
+Let's begin. We'll use *Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn* to accomplish this task.
 
 # Importing the necessary libraries
 {% highlight python %}
@@ -47,14 +49,14 @@ X_train, X_test, y_train, y_test = train_test_split(X, y,
                                                     random_state=1234)
 {% endhighlight %}
 
-# Training multiple classifiers and recoding the results
-In this phase we'll perform few steps:
-1. Instantiate the classfiers and make a list
+# Training multiple classifiers and recording the results
+In this phase we'll perform a few steps:
+1. Instantiate the classifiers and make a list
 2. Define a result table as a DataFrame
 3. Train the models and record the results
 
 Here, we'll train the models on the **training set** and *predict the probabilities* on the **test set**. 
-After predicting the probabilities, we'll calculate the **False positive rates, True positive rate and AUC scores**.
+After predicting the probabilities, we'll calculate the **False positive rates, True positive rate, and AUC scores**.
 
 {% highlight python %}
 # Import the classifiers
