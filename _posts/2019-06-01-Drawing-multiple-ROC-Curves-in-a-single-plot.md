@@ -16,7 +16,7 @@ Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s.
 
 The ROC curve is plotted with **False Positive Rate** in the **x-axis** against the **True Positive Rate** in the **y-axis**.
 
-You may face such situations where you run multiple models and try to plot the ROC-Curves for each model in a single plot. 
+You may face such situations when you run multiple models and try to plot the ROC-Curve for each model in a single figure. 
 Plotting multiple ROC-Curves in a single figure makes it easier to analyze model performances and find out the best performing model.
 
 Let's begin. We'll use *Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn* to accomplish this task.
@@ -34,7 +34,7 @@ import warnings
 warnings.filterwarnings('ignore')
 {% endhighlight %}
 
-## Making a toy Dataset
+## Loading a toy Dataset from sklearn
 {% highlight python %}
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
