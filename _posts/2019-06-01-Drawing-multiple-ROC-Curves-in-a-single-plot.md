@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawing multiple ROC-Curve in a single plot
+title: Drawing multiple ROC-Curves in a single plot
 category: 
   - "Visualization"
   - "Machine Learning"
