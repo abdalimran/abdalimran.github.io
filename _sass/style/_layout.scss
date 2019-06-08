@@ -63,7 +63,7 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: $default-shade;
     font-family: $serif-secondary;
   }
 }
@@ -78,6 +78,7 @@ footer,
       bottom: 0;
       position: absolute;
       right: 0;
+      color: $default-color;
     }
   }
 }
