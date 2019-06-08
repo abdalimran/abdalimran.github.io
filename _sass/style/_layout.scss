@@ -31,7 +31,11 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-    &:focus,
+    
+    &:hover,
+    &:focus{
+      opacity: 0.6;
+    }
   }
 
   ul {
@@ -52,10 +56,6 @@ footer,
       padding-right: 0;
     }
 
-    &:hover,
-    &:focus {
-      opacity: 1;
-    }
   }
 
   a {
