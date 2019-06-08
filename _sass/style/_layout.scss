@@ -14,7 +14,7 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
+  box-shadow: 0 2px 2px -2px $blue;
   overflow: auto;
 
   &-container {
@@ -55,7 +55,11 @@ footer,
     &:last-child {
       padding-right: 0;
     }
-
+    
+    &:hover,
+    &:focus {
+      opacity: 1;
+    }
   }
 
   a {
