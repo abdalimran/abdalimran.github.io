@@ -14,7 +14,6 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
 
   &-container {
@@ -72,7 +71,6 @@ footer,
   .nav {
     &-container {
       text-align: left;
-      color: $blue;
     }
 
     ul {
