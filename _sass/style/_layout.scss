@@ -14,7 +14,7 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $default-shade;
+  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
 
   &-container {
@@ -31,9 +31,10 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+
     &:hover,
-    &:focus{
-      opacity: 0.6;
+    &:focus {
+      opacity: .6;
     }
   }
 
@@ -54,7 +55,7 @@ footer,
     &:last-child {
       padding-right: 0;
     }
-    
+
     &:hover,
     &:focus {
       opacity: 1;
@@ -71,7 +72,6 @@ footer,
   .nav {
     &-container {
       text-align: left;
-      color: $default-color;
     }
 
     ul {
