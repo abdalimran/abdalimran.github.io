@@ -47,7 +47,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $blue;
+    color: $default-color;
     display: inline-block;
     opacity: .6;
     padding: 2rem 0.5rem 0 0;
@@ -63,7 +63,7 @@ footer,
   }
 
   a {
-    color: $default-shade;
+    color: $blue;
     font-family: $serif-secondary;
   }
 }
