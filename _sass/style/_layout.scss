@@ -14,7 +14,7 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $default-shadow;
+  box-shadow: 0 2px 2px -2px $default-shade;
   overflow: auto;
 
   &-container {
@@ -31,6 +31,10 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+
+    &:focus{
+      opacity: 0.6;
+    }
   }
 
   ul {
