@@ -28,7 +28,7 @@ footer,
     font-family: $title-font;
     font-size:2.1em;
     color: $navy;
-    opacity: 0.8;
+    opacity: 0.9;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -58,14 +58,18 @@ footer,
       padding-right: 0;
     }
 
-    &:hover,
+    &:hover{
+      color: $dark-pink;
+      opacity: 1.0;
+    }
+
     &:focus {
-      opacity: 0.8;
+      opacity: 1.0;
     }
   }
 
   a {
-    color: $navy; // subtitle and menu bar
+    color: $deep-green; // subtitle and menu bar
     font-family: $serif-secondary;
   }
 }
