@@ -37,14 +37,14 @@ layout: default
   {{ content }}
 
   <div class="post-line"></div>
-  
+
   <div class="post-categories">
     {% if post %}
     {% assign categories = post.categories %}
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
-    <b><u>Categories:</u></b>
+    <b>TAGS:</b>
     {% for category in categories %}
     <a href="{{site.baseurl}}/archive/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
