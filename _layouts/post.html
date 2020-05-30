@@ -36,6 +36,8 @@ layout: default
 
   {{ content }}
 
+  <div class="post-line"></div>
+  
   <div class="post-categories">
     {% if post %}
     {% assign categories = post.categories %}
@@ -49,7 +51,7 @@ layout: default
     {% endfor %}
   </div>
   
-  {% include share-buttons.html %}
+  <!-- {% include share-buttons.html %} -->
 
   <br>
   {% include disqus.html %}
