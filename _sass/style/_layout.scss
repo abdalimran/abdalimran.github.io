@@ -28,17 +28,14 @@ footer,
     font-family: $title-font;
     font-size:2.1em;
     color: $navy;
+    opacity: 0.8;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
 
-    &:hover{
+    &:hover,
+    &:focus{
       color: $navy; // title hover color
-      opacity: 0.6;
-    }
-
-    &:focus {
-      color: $default-color;
       opacity: 1;
     }
   }
@@ -54,7 +51,7 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: 0.8;
+    opacity: 1.0;
     padding: 2rem 0.5rem 0 0;
 
     &:last-child {
@@ -63,7 +60,7 @@ footer,
 
     &:hover,
     &:focus {
-      opacity: 1;
+      opacity: 0.8;
     }
   }
 
