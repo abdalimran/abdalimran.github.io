@@ -49,7 +49,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $deep-green;
+    color: $default-color;
     display: inline-block;
     padding: 2rem 0.5rem 0 0;
 
@@ -63,9 +63,10 @@ footer,
     opacity: 1.0;
     font-family: $serif-secondary;
 
-    &:hover{
+    &:hover,
+    &:focus{
       color: $dark-pink; 
-      opacity: 0.8;
+      opacity: 1.0;
     }
   }
 }
