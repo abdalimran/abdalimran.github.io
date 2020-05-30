@@ -14,7 +14,7 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $blue;
+  box-shadow: 0 2px 2px -2px $shadow-color; // Horizonal line under title
   overflow: auto;
 
   &-container {
@@ -47,7 +47,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $blue;
     display: inline-block;
     opacity: .6;
     padding: 2rem 0.5rem 0 0;
