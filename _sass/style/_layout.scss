@@ -56,17 +56,17 @@ footer,
     &:last-child {
       padding-right: 0;
     }
-
-    &:hover{
-      color: $dark-pink; 
-      opacity: 0.8;
-    }
   }
 
   a {
     color: $deep-green; // subtitle and menu bar
     opacity: 1.0;
     font-family: $serif-secondary;
+
+    &:hover{
+      color: $dark-pink; 
+      opacity: 0.8;
+    }
   }
 }
 
