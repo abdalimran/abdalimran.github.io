@@ -34,6 +34,7 @@ footer,
 
     &:hover,
     &:focus {
+      color: $blue;
       opacity: .6;
     }
   }
@@ -63,7 +64,7 @@ footer,
   }
 
   a {
-    color: $blue;
+    color: $default-shade;
     font-family: $serif-secondary;
   }
 }
