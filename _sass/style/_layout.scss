@@ -34,7 +34,7 @@ footer,
 
     &:hover{
       color: $navy; // title hover color
-      opacity: 6.0;
+      opacity: 0.6;
     }
 
     &:focus {
@@ -54,7 +54,7 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: 0.8;
     padding: 2rem 0.5rem 0 0;
 
     &:last-child {
@@ -68,7 +68,7 @@ footer,
   }
 
   a {
-    color: $blue;
+    color: $navy; // subtitle and menu bar
     font-family: $serif-secondary;
   }
 }
