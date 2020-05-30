@@ -27,18 +27,19 @@ footer,
     @include transition(all .2s ease-out);
     font-family: $title-font;
     font-size:2.1em;
-    color: $default-shade;
+    color: $navy;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
 
     &:hover{
-      color: $navy;
+      color: $navy; // title hover color
+      opacity: 6.0;
     }
 
     &:focus {
       color: $default-color;
-      opacity: .6;
+      opacity: 1;
     }
   }
 
@@ -51,7 +52,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $blue;
+    color: $default-color;
     display: inline-block;
     opacity: .6;
     padding: 2rem 0.5rem 0 0;
@@ -67,7 +68,7 @@ footer,
   }
 
   a {
-    color: $default-shade;
+    color: $blue;
     font-family: $serif-secondary;
   }
 }
