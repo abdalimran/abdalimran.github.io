@@ -49,7 +49,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $dark-pink;
     display: inline-block;
     opacity: 1.0;
     padding: 2rem 0.5rem 0 0;
@@ -58,11 +58,7 @@ footer,
       padding-right: 0;
     }
 
-    &:hover{
-      color: $dark-pink;
-      opacity: 1.0;
-    }
-
+    &:hover,
     &:focus {
       opacity: 1.0;
     }
