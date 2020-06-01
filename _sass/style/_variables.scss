@@ -24,6 +24,8 @@ $monospaced: Menlo, Monaco, monospace;
 @import url('https://fonts.googleapis.com/css?family=Cinzel');
 $title-font: 'Cinzel', serif;
 
+@import url("https://fonts.googleapis.com/css2?family=Cookie");
+$quote-font: 'Cookie', cursive;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
