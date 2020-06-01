@@ -9,7 +9,7 @@ permalink: /archive/
 {% for category in sortedcats %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first}}{% endcapture %}
-    <h3 class="category-head"><i class="fas fa-tags category-tags-icon"></i> {{category_name}}</h3>
+    <h3 class="category-head"><i class="fa fa-tag"></i> {{category_name}}</h3>
     <!-- <h3 class="category-head"></h3> -->
 
     <a name="{{ category_name | slugize }}"></a>
