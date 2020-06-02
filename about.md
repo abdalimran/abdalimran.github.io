@@ -8,5 +8,5 @@ This is Abdullah Al Imran, born and raised in Dhaka, Bangladesh. I am a passiona
 
 ☛ Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
 
-[![button alt btn](images/connect-linkedin.png)](https://linkedin.com/in/abdalimran)
-[![button alt btn](images/download-resume.png)](https://drive.google.com/file/d/1QrH3CnVWyOz_WeEwpPDeQcis_HNIyn3O/view?usp=sharing)
+[![button alt btn](images/connect-linkedin.png)](https://linkedin.com/in/abdalimran){:target="_blank"}
+[![button alt btn](images/download-resume.png)](https://drive.google.com/file/d/1QrH3CnVWyOz_WeEwpPDeQcis_HNIyn3O/view?usp=sharing){:target="_blank"}
