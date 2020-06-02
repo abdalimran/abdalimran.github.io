@@ -6,4 +6,11 @@
     font-family: $quote-font;
     font-size: 26px;
     line-height: 0.75em;
+
+    &-line {
+        border-top: 0.2rem solid $grey-1;
+        display: block;
+        margin: 0 auto;
+        width: 5rem;
+      }
 }
