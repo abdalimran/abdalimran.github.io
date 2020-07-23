@@ -45,7 +45,7 @@ layout: default
     {% assign categories = page.categories %}
     {% endif %}
     {% for category in categories %}
-    <i class="fa fa-tag">&nbsp; </i><a href="{{site.baseurl}}/archive/#{{category|slugize}}" style="background-color:#DEE3E2;border-radius:5px;padding:3px">{{category}}</a>
+    <a href="{{site.baseurl}}/archive/#{{category|slugize}}" style="background-color:#DEE3E2;border-radius:5px;padding:3px"><i class="fa fa-tag">&nbsp;</i>{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
