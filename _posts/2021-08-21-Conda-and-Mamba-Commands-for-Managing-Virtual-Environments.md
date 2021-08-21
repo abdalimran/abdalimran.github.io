@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Conda and Mamba Commands for Managing Virtual Environments
-category: Data Science
+category: 
+    - "Data Science"
 ---
 
 ### Installing Mamba

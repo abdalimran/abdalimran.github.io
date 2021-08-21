@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Installing Windows Subsystem Linux (WSL2) and Docker in Windows 10
-category: MLOps
+category: 
+    - "MLOps"
+    - "Docker"
 ---
 
 Installing Docker in Windows system is not always a straight-forward process since Windows 10 doesn't provide support for Hyper-V. Though it provides Windows Hypervisor Platform, it doesn't help for Docker installation. We must install WSL in order to install an run Docker in our Windows system.
@@ -10,6 +12,7 @@ Run the following commands in your CMD/PowerShell with admin privilege to get th
 
 #### First check whether Hypervisor is enables in your system or not
 `systeminfo`
+
 After running the above command scroll down to the last and check the **Hyper-V Requirements** section. If its not enabled, enable it from BIOS. If it is enabled then proceed to the next command.
 
 #### Install Microsoft Windows Subsystem Linux
@@ -26,6 +29,7 @@ Use this [https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.m
 
 #### Install your Linux distribution of choice
 Check the available linux distors by running `wsl --list --online`. Let's install Ubuntu 20.04.
+
 `wsl --install -d Ubuntu-20.04`
 
 ####  Download and Install Docker
