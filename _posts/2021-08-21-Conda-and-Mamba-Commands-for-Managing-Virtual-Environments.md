@@ -21,34 +21,34 @@ mamba update -n base mamba
 
 ### Finding a Package
 {% highlight python %}
-mamba repoquery search <package>
+mamba repoquery search PACKAGE
 {% endhighlight %}
 
 ### Searching for dependencies
 {% highlight python %}
-mamba repoquery depends -a <package>
+mamba repoquery depends -a PACKAGE
 {% endhighlight %}
 
 ### Creating an environment
 {% highlight python %}
-mamba create -n <env_name> <package>
+mamba create -n ENV_NAME PACKAGE
 {% endhighlight %}
 
 ### Adding/Updating software
 {% highlight python %}
-mamba install -n <env_name> <package>
-mamba update -n <env_name> --all
+mamba install -n ENV_NAME PACKAGE
+mamba update -n ENV_NAME --all
 {% endhighlight %}
 
 ### Removing a package
 {% highlight python %}
-mamba remove -n <env_name> <package>
+mamba remove -n ENV_NAME PACKAGE
 {% endhighlight %}
 
 ### Undoing changes to an environment
 {% highlight python %}
-mamba list -n <env_name> --revisions
-mamba install -n <env_name> --revision 1
+mamba list -n ENV_NAME --revisions
+mamba install -n ENV_NAME --revision 1
 {% endhighlight %}
 
 ### Show environment
@@ -58,29 +58,29 @@ conda env export --no-builds
 
 ### Clone an existing environment
 {% highlight python %}
-conda create --name <clone_envname> --clone <env_name>
+conda create --name CLONE_ENV_NAME --clone ENV_NAME
 {% endhighlight %}
 
 ### Removing an environment
 {% highlight python %}
-mamba env remove -n <env_name>
-conda remove --name <env_name> --all
+mamba env remove -n ENV_NAME
+conda remove --name ENV_NAME --all
 {% endhighlight %}
 
 ### Exporting an environment
 {% highlight python %}
-mamba env export -n <env_name> > <env_name>.yaml
-conda list -e > <env_name>.txt
+mamba env export -n ENV_NAME > ENV_NAME.yaml
+conda list -e > ENV_NAME.txt
 {% endhighlight %}
 
-* **Windows**: {% highlight python %}conda env export -n <env_name> | findstr -v "prefix" > <env_name>.yaml{% endhighlight %}
-* **Linux**: {% highlight python %}conda env export -n <env_name> --no-builds | grep -v "prefix" > <env_name>.yaml{% endhighlight %}
+* **Windows**: {% highlight python %}conda env export -n ENV_NAME | findstr -v "prefix" > ENV_NAME.yaml{% endhighlight %}
+* **Linux**: {% highlight python %}conda env export -n ENV_NAME --no-builds | grep -v "prefix" > ENV_NAME.yaml{% endhighlight %}
 
 ### Importing an environment
 {% highlight python %}
-mamba env create --file <env_name>.yaml
-conda env create --file <env_name>.yaml
-conda create -n <env_name> --file <env_name>.txt
+mamba env create --file ENV_NAME.yaml
+conda env create --file ENV_NAME.yaml
+conda create -n ENV_NAME --file ENV_NAME.txt
 {% endhighlight %}
 
 ### Deactivate the Environment
