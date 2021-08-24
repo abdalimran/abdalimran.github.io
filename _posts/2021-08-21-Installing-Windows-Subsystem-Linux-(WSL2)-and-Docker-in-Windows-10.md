@@ -36,4 +36,4 @@ Check the available linux distors by running `wsl --list --online`. Let's instal
 Download Docker from https://www.docker.com/products/docker-desktop[](https://www.docker.com/products/docker-desktop) and install t.
 
 
-For latest update on WLS installation in Windows, please follow [this](https://docs.microsoft.com/en-us/windows/wsl/install-win10) official page.
+For latest update on WLS installation in Windows, please follow [this](https://docs.microsoft.com/en-us/windows/wsl/install-win10) official page. Another useful resource might be [this](https://webinstall.dev/wsl2/).
