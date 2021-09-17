@@ -3,6 +3,7 @@ layout: post
 title: Fuzzy word replace from string in Python
 category: 
     - "Miscellaneous"
+excerpt: "Replacing a word from a string using Fuzzy matching in Python"
 ---
 
 Have you ever faced problems like the following?
