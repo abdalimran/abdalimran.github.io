@@ -7,7 +7,7 @@ category:
 
 Have you ever faced problems like the following?
 
-You are given a string, for example `"Apple MackBook Pro appl"`. Now you have to remove the word `"Apple"` from the string.
+You are given a string, for example `"Apple MacBook Pro appl"`. Now you have to remove the word `"Apple"` from the string.
 You can easily use python's default `replace()` function to do that. It'll only matctch and replace the words that exactly matches to `Apple`. But it is required that you also remove the words that might be misspelled, like `appl`. How can we do that?
 
 Fuzzy string matching techniques comes into play here. We can solve this problem in 2 ways. One is through using Python's default `difflib` library, and the another one is through using `rapidfuzz`, a fuzzy string matching library.
@@ -68,12 +68,12 @@ Now, if we use the function we can see the output as follows:
 
 {% highlight python %}
 word = "Apple"
-string = "Apple MackBook Pro appl"
+string = "Apple MacBook Pro appl"
 
 print(fuzzy_replace(word, string))
 {% endhighlight %}
 
 ```
 Output:
-MackBook Pro
+MacBook Pro
 ```
