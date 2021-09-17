@@ -14,7 +14,7 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color; // Horizonal line under title
+  box-shadow: 0 2px 2px -2px $shadow-color; // Horizonal line under header
   overflow: auto;
 
   &-container {
@@ -27,7 +27,7 @@ footer,
     @include transition(all .2s ease-out);
     font-family: $title-font;
     font-size:2.1em;
-    color: $navy;
+    color: $black;  // title color
     opacity: 1.0;
     display: inline-block;
     margin: 0;
@@ -35,7 +35,7 @@ footer,
 
     &:hover,
     &:focus{
-      color: $dark-pink; // title hover color
+      color: $black; // title hover color
       opacity: 1.0;
     }
   }
@@ -59,14 +59,14 @@ footer,
   }
 
   a {
-    color: $deep-green; // subtitle and menu bar
+    color: $blue; // subtitle and menu bar color
     opacity: 1.0;
     font-family: $serif-secondary;
     font-weight: 5;
 
     &:hover,
     &:focus{
-      color: $dark-pink; 
+      color: $blue-2:; // subtitle and menu bar hover color
       opacity: 1.0;
     }
   }
