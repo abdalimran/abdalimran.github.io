@@ -12,23 +12,13 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+  {% if page.title %}
+  <meta name="title" property="og:title" content="{{ page.title }}" />
+  {% endif %}
+
   {% include head.html %}
   {% include meta.html %}
   {% seo %}
-
-  <meta name="title" property="og:title" 
-    content="{% if page.title %}
-    {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}
-    {{ site.title }}
-    {% endif %}">
-
-  <meta name="description" property="og:description"
-      content="{% if page.excerpt %}
-      {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-      {% else %}
-      {{ site.description }}
-      {% endif %}">
 
   <body>
     <nav class="nav">
