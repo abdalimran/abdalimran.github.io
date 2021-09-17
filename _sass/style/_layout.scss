@@ -59,14 +59,14 @@ footer,
   }
 
   a {
-    color: $blue; // subtitle and menu bar color
+    color: $blue-2; // subtitle and menu bar color
     opacity: 1.0;
     font-family: $serif-secondary;
     font-weight: 5;
 
     &:hover,
     &:focus{
-      color: $blue-2; // subtitle and menu bar hover color
+      color: $navy; // subtitle and menu bar hover color
       opacity: 1.0;
     }
   }
