@@ -16,22 +16,26 @@
   {% include meta.html %}
   {% seo %}
 
+  <meta name="title" property="og:title" 
+    content="{% if page.title %}
+    {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+    {{ site.title }}
+    {% endif %}">
+
+  <meta name="description" property="og:description"
+      content="{% if page.excerpt %}
+      {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+      {% else %}
+      {{ site.description }}
+      {% endif %}">
+
   <body>
     <nav class="nav">
       <div class="nav-container">
         <a href="{{ site.baseurl }}/">
-          <h1 class="nav-title">
-            {% if page.title %}
-            {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-            {% else %}
-            {{ site.title }}
-            {% endif %}
-          </h1><br>
-          {% if page.excerpt %}
-          {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-          {% else %}
+          <h1 class="nav-title">{{ site.title }}</h1><br>
           {{ site.description }}
-          {% endif %}
         </a>
         <ul>
           <li class="zoom"><a href="{{ '/' | prepend: site.baseurl }}">{Blog}</a></li>
