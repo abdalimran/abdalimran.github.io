@@ -11,7 +11,11 @@ Have you ever faced problems like the following?
 You are given a string, for example `"Apple MacBook Pro appl"`. Now you have to remove the word `"Apple"` from the string.
 You can easily use python's default `replace()` function to do that. It'll only match and replace the words that exactly matches to `Apple`. But it is required that you also remove the words that might be misspelled, like `appl`. How can we do that?
 
-Fuzzy string matching techniques come into play here. We can solve this problem in 2 ways. One is through using Python's default `difflib` library, and the other one is through using `rapidfuzz`, a fuzzy string matching library.
+Fuzzy string matching techniques come into play here.
+
+![alt text](/images/fuzzy_matching.png "Fuzzy Matching")
+
+We can solve this problem in 2 ways. One is through using Python's default `difflib` library, and the other one is through using `rapidfuzz`, a fuzzy string matching library.
 
 Below I've given codes for both of the approaches.
 
