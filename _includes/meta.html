@@ -5,13 +5,11 @@
 
 
 <meta name="author" 
-    content="{Abdullah Al Imran">
+    content="Abdullah Al Imran">
 
 <meta name="title" property="og:title" 
     content="{% if page.title %}
     {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}
-    {{ site.title }}
     {% endif %}">
 
 <meta name="description" property="og:description"
