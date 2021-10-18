@@ -2,7 +2,6 @@
   margin: 0 auto;
   max-width: 900px;
   width: 90%;
-  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
 main,
@@ -12,11 +11,9 @@ footer,
   margin: 0 auto;
   max-width: 900px;
   width: 90%;
-  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color; // Horizonal line under header
   overflow: auto;
 
   &-container {
