@@ -1,7 +1,6 @@
 .container {
   margin: 0 auto;
   max-width: 900px;
-  padding: 50px;
   width: 90%;
 }
 
@@ -12,12 +11,11 @@ footer,
   margin: 0 auto;
   max-width: 900px;
   width: 90%;
-  padding: 10px;
-  box-shadow: 0px 0px 10px 5px $shadow-color;
 }
 
 .nav {  
   overflow: auto;
+  box-shadow: 0px 0px 10px 5px $shadow-color;
   
   &-container {
     margin: 1rem auto;
