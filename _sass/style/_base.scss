@@ -1,6 +1,7 @@
 * {
   @include box-sizing;
   line-height: 1.5;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
 html,
@@ -8,6 +9,7 @@ body {
   color: $default-color;
   margin: 0;
   padding: 0;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
 html {
