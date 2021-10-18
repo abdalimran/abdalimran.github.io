@@ -28,7 +28,7 @@ footer,
   &-title {
     @include transition(all .2s ease-out);
     font-family: $title-font;
-    font-size:3em;
+    font-size: 2.8em;
     color: $black;  // title color
     opacity: 1.0;
     display: inline-block;
