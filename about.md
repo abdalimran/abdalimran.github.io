@@ -8,8 +8,7 @@ This is Abdullah Al Imran, born and raised in Dhaka, Bangladesh. I am a passiona
 
 <div>
   <a target="_blank" href="mailto:abdalimran@gmail.com"><img width="250" height="35" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://twitter.com/AbdullahAlImran"><img width="250" height="35" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a><br>
-  <a target="_blank" href="https://linkedin.com/in/abdalimran"><img width="200" height="35" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-  <a target="_blank" href="https://facebook.com/abdalimran"><img width="200" height="35" align="left" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a><br>
-  <a target="_blank" href="skype:abdalimran?chat "><img width="200" height="35" align="left" src="https://img.shields.io/badge/abdalimran-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></a>
+  <a target="_blank" href="https://twitter.com/AbdullahAlImran"><img width="200" height="35" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a target="_blank" href="https://linkedin.com/in/abdalimran"><img width="200" height="35" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://facebook.com/abdalimran"><img width="200" height="35" align="left" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </div>
