@@ -6,7 +6,10 @@ This is Abdullah Al Imran, born and raised in Dhaka, Bangladesh. I am a passiona
 
 ## How to reach me?
 
-☛ Email: [abdalimran@gmail.com](mailto:abdalimran@gmail.com)
-
-[![button alt btn](images/connect-linkedin.png)](https://linkedin.com/in/abdalimran){:target="_blank"}
-[![button alt btn](images/download-cv.png)](https://drive.google.com/file/d/1AYZKxjxY0Ceubvk_WsBTAIblxNzLGc2M/view?usp=sharing){:target="_blank"}
+<div>
+  <a target="_blank" href="mailto:abdalimran@gmail.com"><img width="250" height="35" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+  <a target="_blank" href="https://twitter.com/AbdullahAlImran"><img width="250" height="35" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a><br>
+  <a target="_blank" href="https://linkedin.com/in/abdalimran"><img width="200" height="35" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+  <a target="_blank" href="https://facebook.com/abdalimran"><img width="200" height="35" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a><br>
+  <a target="_blank" href="skype:abdalimran?chat "><img width="200" height="35" src="https://img.shields.io/badge/abdalimran-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></a>
+</div>
