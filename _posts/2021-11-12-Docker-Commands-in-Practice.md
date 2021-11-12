@@ -38,12 +38,6 @@ docker start CONTAINER_ID
 docker stop CONTAINER_ID
 {% endhighlight %}
 
-### Add metadata to container
-{% highlight shell %}
-docker run -d label=traefik.backend=IMAGE_NAME IMAGE_NAME
-{% endhighlight %}
-
-
 
 ## Build Images
 
@@ -101,12 +95,6 @@ docker container prune
 docker ps --ﬁlter label=LABEL
 {% endhighlight %}
 
-### Query a specific metadata of a running container
-{% highlight shell %}
-docker inspect -f '{{ .NetworkSettings.IPAddress }}' CONTAINER_ID
-{% endhighlight %}
-
-
 
 ## Debug
 
@@ -124,7 +112,6 @@ docker logs -f CONTAINER_ID
 {% highlight shell %}
 docker port CONTAINER_ID
 {% endhighlight %}
-
 
 
 ## Volumes
@@ -148,7 +135,6 @@ docker volume rm VOLUME_NAME
 {% highlight shell %}
 docker volume ls
 {% endhighlight %}
-
 
 
 ## Networking
