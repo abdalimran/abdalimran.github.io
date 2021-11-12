@@ -10,37 +10,37 @@ category:
 
 ### Start a container in background
 {% highlight shell %}
-docker run -d <IMAGE_NAME>
+docker run -d IMAGE_NAME
 {% endhighlight %}
 
 ### Start an interactive container
 {% highlight shell %}
-docker run -it <IMAGE_NAME> bash
+docker run -it IMAGE_NAME bash
 {% endhighlight %}
 
 ### Export port from a container
 {% highlight shell %}
-docker run -p 80:80 -d <IMAGE_NAME>
+docker run -p 80:80 -d IMAGE_NAME
 {% endhighlight %}
 
 ### Start a named container
 {% highlight shell %}
-docker run --name <CONTAINER_ID> <IMAGE_NAME>
+docker run --name CONTAINER_ID IMAGE_NAME
 {% endhighlight %}
 
 ### Restart a stopped container
 {% highlight shell %}
-docker start <CONTAINER_ID>
+docker start CONTAINER_ID
 {% endhighlight %}
 
 ### Stop a container
 {% highlight shell %}
-docker stop <CONTAINER_ID>
+docker stop CONTAINER_ID
 {% endhighlight %}
 
 ### Add metadata to container
 {% highlight shell %}
-docker run -d label=traefik.backend=<IMAGE_NAME> <IMAGE_NAME>
+docker run -d label=traefik.backend=IMAGE_NAME IMAGE_NAME
 {% endhighlight %}
 
 
@@ -49,7 +49,7 @@ docker run -d label=traefik.backend=<IMAGE_NAME> <IMAGE_NAME>
 
 ### Build an image from Dockerfile in current directory
 {% highlight shell %}
-docker build --tag <IMAGE_NAME> .
+docker build --tag IMAGE_NAME .
 {% endhighlight %}
 
 ### Force rebuild of Docker image
@@ -59,7 +59,7 @@ docker build --no-cache .
 
 ### Convert a container to image
 {% highlight shell %}
-docker commit <CONTAINER_ID> <IMAGE_NAME>
+docker commit CONTAINER_ID IMAGE_NAME
 {% endhighlight %}
 
 ### Remove all unused images
@@ -83,7 +83,7 @@ docker ps -a
 
 ### Inspect containers metadata
 {% highlight shell %}
-docker inspect <CONTAINER_ID>
+docker inspect CONTAINER_ID
 {% endhighlight %}
 
 ### List local available images
@@ -98,12 +98,12 @@ docker container prune
 
 ### List all containers with a specific label
 {% highlight shell %}
-docker ps --ﬁlter label=<LABEL>
+docker ps --ﬁlter label=LABEL
 {% endhighlight %}
 
 ### Query a specific metadata of a running container
 {% highlight shell %}
-docker inspect -f '{{ .NetworkSettings.IPAddress }}' <CONTAINER_ID>
+docker inspect -f '{{ .NetworkSettings.IPAddress }}' CONTAINER_ID
 {% endhighlight %}
 
 
@@ -112,17 +112,17 @@ docker inspect -f '{{ .NetworkSettings.IPAddress }}' <CONTAINER_ID>
 
 ### Run another process in running container
 {% highlight shell %}
-docker exec -it <CONTAINER_ID> bash
+docker exec -it CONTAINER_ID bash
 {% endhighlight %}
 
 ### Show live logs of running daemon container
 {% highlight shell %}
-docker logs -f <CONTAINER_ID>
+docker logs -f CONTAINER_ID
 {% endhighlight %}
 
 ### Show exposed ports of a container
 {% highlight shell %}
-docker port <CONTAINER_ID>
+docker port CONTAINER_ID
 {% endhighlight %}
 
 
@@ -131,17 +131,17 @@ docker port <CONTAINER_ID>
 
 ### Create a local volume
 {% highlight shell %}
-docker volume create --name <VOLUME_NAME>
+docker volume create --name VOLUME_NAME
 {% endhighlight %}
 
 ### Mounting a volume on container start
 {% highlight shell %}
-docker run -v <VOLUME_NAME>:/data <IMAGE_NAME>
+docker run -v VOLUME_NAME:/data IMAGE_NAME
 {% endhighlight %}
 
 ### Destroy a volume
 {% highlight shell %}
-docker volume rm <VOLUME_NAME>
+docker volume rm VOLUME_NAME
 {% endhighlight %}
 
 ### List volumes
@@ -155,20 +155,20 @@ docker volume ls
 
 ### Create a local network
 {% highlight shell %}
-docker network create <NETWORK_NAME>
+docker network create NETWORK_NAME
 {% endhighlight %}
 
 ### Attach a container to a network on start
 {% highlight shell %}
-docker network create <NETWORK_NAME> <IMAGE_NAME>
+docker network create NETWORK_NAME IMAGE_NAME
 {% endhighlight %}
 
 ### Connect a running container from a network
 {% highlight shell %}
-docker network connect <NETWORK_NAME> <CONTAINER_ID>
+docker network connect NETWORK_NAME CONTAINER_ID
 {% endhighlight %}
 
 ### Disconnect container to a network
 {% highlight shell %}
-docker network disconnect <NETWORK_NAME> <CONTAINER_ID>
+docker network disconnect NETWORK_NAME CONTAINER_ID
 {% endhighlight %}
