@@ -18,6 +18,12 @@ docker run -d IMAGE_NAME
 docker run -it IMAGE_NAME bash
 {% endhighlight %}
 
+### View the contents of an image/container
+{% highlight shell %}
+docker run --rm -it --entrypoint=/bin/bash IMAGE_NAME
+docker exec -it CONTAINER_ID bash
+{% endhighlight %}
+
 ### Export port from a container
 {% highlight shell %}
 docker run -p 80:80 -d IMAGE_NAME
@@ -54,6 +60,11 @@ docker build --no-cache .
 ### Convert a container to image
 {% highlight shell %}
 docker commit CONTAINER_ID IMAGE_NAME
+{% endhighlight %}
+
+### Chnage image name
+{% highlight shell %}
+docker tag CURRENT_IMAGE_NAME DESIRED_IMAGE_NAME
 {% endhighlight %}
 
 ### Remove all unused images
@@ -93,6 +104,11 @@ docker container prune
 ### List all containers with a specific label
 {% highlight shell %}
 docker ps --ﬁlter label=LABEL
+{% endhighlight %}
+
+### Copy files of a container to local directory
+{% highlight shell %}
+docker cp CONTAINER_ID:PATH_TO_BE_COPIED PATH_OF_LOCAL_HOST
 {% endhighlight %}
 
 
