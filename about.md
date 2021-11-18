@@ -38,8 +38,8 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 ## How to reach me?
 
 <div class='contacts' style="float:left;margin:0 0 30px 0">
-  <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://facebook.com/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://facebook.com/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </div>
