@@ -6,7 +6,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## My Technical Skills
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
+<div style="float:left;margin:0 10px 10px 0">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
