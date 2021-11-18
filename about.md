@@ -6,12 +6,13 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## My Technical Skills
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:abdalimran@gmail.com)
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdalimran/)
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267B2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)<br>
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7)](https://twitter.com/AbdullahAlImran)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@abdalimran)
 [![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://imranabdullah.com)
+</div>
 
 <!-- <div class='skills'>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
