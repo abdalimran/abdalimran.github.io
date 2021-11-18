@@ -6,7 +6,14 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## My Technical Skills
 
-<div>
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</div>
+
+<!-- <div class='skills'>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
@@ -32,12 +39,11 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-</div><br><br><br>
+</div> -->
 
 
 ## How to reach me?
-
-<div>
+<div class='contacts'>
   <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
