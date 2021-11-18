@@ -2,7 +2,7 @@
 layout: post
 title: Docker Commands in Practice
 category: 
-    - "Data Science"
+    - "Docker"
     - "MLOps"
 ---
 
