@@ -6,44 +6,37 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## My Technical Skills
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdalimran/)
-[![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267B2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)<br>
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7)](https://twitter.com/AbdullahAlImran)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@abdalimran)
-[![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://imranabdullah.com)
-</div>
-
-<!-- <div class='skills'>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> </a>
-    <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
+<div class='skills'>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> </a>
+    <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-</div> -->
+</div></br></br></br></br></br>
 
 
 ## How to reach me?
+
 <div class='contacts'>
   <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
