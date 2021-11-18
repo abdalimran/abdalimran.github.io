@@ -6,7 +6,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## Technical Skills
 
-<div class='skills' style="float:left;margin:0 0 30px 0">
+<div class='skills' style="float:left;margin:0 0 30px 0"; padding: 0 25px 0 25px;>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
@@ -36,11 +36,11 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## Publications
 
-<div class='publications' style="float:left;margin:0 0 30px 0">
+<div class='publications' style="float:left;margin:0 0 30px 0; ; padding: 0 25px 0 25px;">
 <details>
 <summary>Imran, Abdullah Al, Md Shamsur Rahim, and Tanvir Ahmed. <b>“Mining the Productivity Data of the Garment Industry.”</b> International Journal of Business Intelligence and Data Mining. Inderscience Publishers, 2021. https://doi.org/10.1504/ijbidm.2021.118183.</summary>
         
-<code style="color:gray;background-color:white;padding:0 0 0 20px">
+<code style="color:gray;background-color:white;padding:25px;margin:5px;">
 <b>Abstract:</b> The garment industry is one of the key examples of the industrial globalisation of this modern era. It is a highly labour-intensive industry with lots of manual processes. Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. So, it is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories. This study explores the application of state-of-the-art data mining techniques for analysing industrial data, revealing meaningful insights and predicting the productivity performance of the working teams in a garment company. As part of our exploration, we have applied eight different data mining techniques with six evaluation metrics. Our experimental results show that the tree ensemble model and gradient boosted tree model are the best performing models in the application scenario.
 </code>
     
@@ -50,7 +50,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## How to reach me?
 
-<div class='contacts' style="float:left;margin:0 0 30px 0">
+<div class='contacts' style="float:left;margin:0 0 30px 0; padding: 0 25px 0 25px;">
   <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
