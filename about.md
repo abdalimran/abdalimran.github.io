@@ -36,11 +36,11 @@ title: Hello World!!
 </div>
 
 
-<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications</span>,
-<i class="ai ai-google-scholar-square ai-2x"></i>
-<i class="ai ai-dblp-square ai-2x"></i>
-<i class="ai ai-researchgate-square ai-2x"></i>
-<i class="ai ai-orcid-square ai-2x"></i>
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications</span>
+<i class="ai ai-google-scholar-square ai-2x" align="right"></i>
+<i class="ai ai-dblp-square ai-2x" align="right"></i>
+<i class="ai ai-researchgate-square ai-2x" align="right"></i>
+<i class="ai ai-orcid-square ai-2x" align="right"></i>
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
 <details>
