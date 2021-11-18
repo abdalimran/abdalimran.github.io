@@ -40,9 +40,10 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 <details>
 <summary>Imran, Abdullah Al, Md Shamsur Rahim, and Tanvir Ahmed. <b>“Mining the Productivity Data of the Garment Industry.”</b> International Journal of Business Intelligence and Data Mining. Inderscience Publishers, 2021. https://doi.org/10.1504/ijbidm.2021.118183.</summary>
         
-<p>
-    **Abstract:** ```The garment industry is one of the key examples of the industrial globalisation of this modern era. It is a highly labour-intensive industry with lots of manual processes. Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. So, it is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories. This study explores the application of state-of-the-art data mining techniques for analysing industrial data, revealing meaningful insights and predicting the productivity performance of the working teams in a garment company. As part of our exploration, we have applied eight different data mining techniques with six evaluation metrics. Our experimental results show that the tree ensemble model and gradient boosted tree model are the best performing models in the application scenario.```
-</p>
+<code style="text-indent: 25px;">
+<b>Abstract:</b> The garment industry is one of the key examples of the industrial globalisation of this modern era. It is a highly labour-intensive industry with lots of manual processes. Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. So, it is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories. This study explores the application of state-of-the-art data mining techniques for analysing industrial data, revealing meaningful insights and predicting the productivity performance of the working teams in a garment company. As part of our exploration, we have applied eight different data mining techniques with six evaluation metrics. Our experimental results show that the tree ensemble model and gradient boosted tree model are the best performing models in the application scenario.
+</code>
+    
 </details>
     
 </div>
