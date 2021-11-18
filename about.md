@@ -32,7 +32,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-</div></br></br></br></br></br>
+</div></br>
 
 
 ## How to reach me?
