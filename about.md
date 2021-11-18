@@ -36,7 +36,9 @@ title: Hello World!!
 </div>
 
 
-<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications [<a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>, <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>, <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> </a>]</span>
+## Publications 
+
+<i class="ai ai-google-scholar-square ai-3x"></i>
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
 <details>
