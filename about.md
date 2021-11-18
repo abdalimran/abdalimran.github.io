@@ -6,7 +6,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## My Technical Skills
 
-<div class='skills'>
+<div class='skills' style="float:left;margin:0 0 50px 0">
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
@@ -34,7 +34,6 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
 </div>
 
-## 
 
 ## How to reach me?
 
