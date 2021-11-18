@@ -38,7 +38,10 @@ title: Hello World!!
 
 ## Publications 
 
-<i class="ai ai-google-scholar-square ai-3x"></i>
+<i class="ai ai-google-scholar-square"></i>
+<i class="ai ai-dblp-square"></i>
+<i class="ai ai-researchgate-square"></i>
+<i class="ai ai-orcid-square"></i>
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
 <details>
