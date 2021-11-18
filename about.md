@@ -36,36 +36,14 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## Publications
 
-<ul class="circle">
-              <script>
-                  var i;
-                  for (i = 0; i < 3; i++) {
-                  if (papers_full[i].highlight.search("yes") >= 0) {
-                      document.write("<li class=paper>");
-                      printPaper(papers_full[i], "O");
-                      document.write("</li>");
-                  }
-              }
-              </script><li class="paper"><div class="title" display="block" style="cursor:pointer" onclick="return toggleAbstract('abs-csonet-O');"><b>Incorporating Transformer Models for Sentiment Analysis and News Classification in Khmer</b></div>
-<div>Md Rifatul Islam Rifat, and Abdullah Al Imran</div>
-<a>10th International Conference on Computational Data and Social Networks</a>, November 2021, Montreal, Quebec. <i>Springer</i>.<div class="abstract" id="abs-csonet-O" style="display: block;">
-<p><b>Abstract</b></p>
-<p>In recent years, natural language modeling has achieved a major breakthrough with its sophisticated theoretical and technical advancements. Leveraging the power of deep learning, transformer models have created a disrupting impact in the domain of natural language processing. However, the benefits of such advancements are still inscribed between few highly resourced languages such as English, German, and French. Low-resourced language such as Khmer is still deprived of utilizing these advancements due to lack of technical support for this language. In this study, our objective is to apply the state-of-the-art language models within two empirical use cases such as Sentiment Analysis and News Classification in the Khmer language. To perform the classification tasks, we have employed FastText and BERT for extracting word embeddings and carried out three different type of experiments such as FastText, BERT feature-based, and BERT fine-tuning-based. A large text corpus including over 100,000 news articles has been used for pre-training the transformer model, BERT. The outcome of our experiment shows that in both of the use cases, a pre-trained and fine-tuned BERT model produces the outperforming results.</p>
+<div class='publications' style="float:left;margin:0 0 30px 0">
+<details>
+        <summary>Imran, Abdullah Al, Md Shamsur Rahim, and Tanvir Ahmed. <b>“Mining the Productivity Data of the Garment Industry.”</b> International Journal of Business Intelligence and Data Mining. Inderscience Publishers, 2021. https://doi.org/10.1504/ijbidm.2021.118183.</summary>
+        
+        **Abstract:** The garment industry is one of the key examples of the industrial globalisation of this modern era. It is a highly labour-intensive industry with lots of manual processes. Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. So, it is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories. This study explores the application of state-of-the-art data mining techniques for analysing industrial data, revealing meaningful insights and predicting the productivity performance of the working teams in a garment company. As part of our exploration, we have applied eight different data mining techniques with six evaluation metrics. Our experimental results show that the tree ensemble model and gradient boosted tree model are the best performing models in the application scenario.
+</details>
+    
 </div>
-</li><li class="paper"><div class="title" display="block" style="cursor:pointer" onclick="return toggleAbstract('abs-sentiment_and_product_review-O');"><b>Sentiment Analysis and Product Review Classification in E-commerce Platform</b></div>
-<div>Mahmud Hasan Munna, Md Rifatul Islam Rifat, and ASM Badrudduza</div>
-<a>2020 23rd International Conference on Computer and Information Technology (ICCIT)</a>, IEEE, 2020. <a href=" files/3_ICCIT2020.pdf " target="_blank">[PDF]</a><div class="abstract" id="abs-sentiment_and_product_review-O" style="display: none;">
-<p><b>Abstract</b></p>
-<p>Online shopping is becoming one of the most de-manding everyday needs, nowadays. These days people are feeling comfortable shopping online. The number of its customers is increasing day by day as well as raising some problems. The major problem is that the customers can not choose the quality-full product by reading every review of an online product. Besides, the product reviews are helpful to improve the services of an e-commerce site but required huge manpower and time. We have focused on Bangla text and aimed to solve these problems by the application of Deep Neural Network (DNN) and Natural Language Processing (NLP). In this study, we have proposed two deep learning NLP models: one is for sentiment analysis and the other one is for Product Review Classification intended to improve both the quality and services. Significantly, our proposed models result in high accuracy: 0.84 and 0.69 for both Sentiment Analysis and Product Review Classification, respectively. Undoubtedly, these models can help the customers to choose the right product and the service provider to improve their services.</p>
-</div>
-</li><li class="paper"><div class="title" display="block" style="cursor:pointer" onclick="return toggleAbstract('abs-lower_back_pain-O');"><b>Enhancing the Classification Performance of Lower Back Pain Symptoms Using Genetic Algorithm-Based Feature Selection</b></div>
-<div>Abdullah Al Imran, Md Rifatul Islam Rifat, and Rafeed Mohammad</div>
-<a>Proceedings of International Joint Conference on Computational Intelligence</a>, Springer, Singapore, 2020. <a href=" files/2_Springer.pdf " target="_blank">[PDF]</a><div class="abstract" id="abs-lower_back_pain-O">
-<p><b>Abstract</b></p>
-<p>Lower Back Pain (LBP) is one of the leading causes of disability around the world that affects several important parts of the human body such as the muscles, nerves, and bones of the back. The early diagnosis and proper treatment can only prevent acute LBP from infecting into chronic LBP. The aim of this study is to enhance the classification performance of LBP by identifying the most relevant feature subset from a broader feature space of an LBP dataset. To serve the aim, we have proposed a Genetic Algorithm (GA)-based feature selection approach that has been proved to significantly improve the classification performance of LBP. For the purpose of classification, we have used seven different classification algorithms, namely Logistic Regression, Ridge Regression, Gaussian Naive Bayes, Random Forest, Decision Tree, k-Nearest Neighbors (KNN), and Support Vector Machine (SVM). After applying our proposed GA-based feature selection approach along with the base classifiers, we have obtained a significant average increment in accuracy, precision, recall, f1-score, and AUC score by 3.1%, 0.64%, 4.37%, 2.64%, and 3.83% respectively. The k-Nearest Neighbors outperforms the other models with the highest accuracy (=85.2%), precision (=89.9%), and f1 score (=88.9%).</p>
-</div>
-</li>
-      </ul>
 
 ## How to reach me?
 
