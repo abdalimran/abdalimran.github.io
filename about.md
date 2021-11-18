@@ -2,7 +2,8 @@
 layout: about
 title: Hello World!! 
 ---
-This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
+
+<span style="font-size:18px;font-weight:bold">THIS IS IMRAN</span>, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
 
 ## Technical Skills
 
