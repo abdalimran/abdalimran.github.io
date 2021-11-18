@@ -4,9 +4,9 @@ title: Hello World!!
 ---
 This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
 
-## My Technical Skills
+## Technical Skills
 
-<div class='skills' style="float:left;margin:0 0 50px 0">
+<div class='skills' style="float:left;margin:0 0 30px 0">
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
@@ -37,7 +37,7 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 ## How to reach me?
 
-<div class='contacts'>
+<div class='contacts' style="float:left;margin:0 0 30px 0">
   <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://twitter.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
