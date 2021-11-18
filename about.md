@@ -3,7 +3,7 @@ layout: about
 title: Hello World!! 
 ---
 
-<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">This is Imran</span>, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">This is Imran</span>, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. I help companies make impactful data-driven decisions through productionalizing and utilizing AI and Data Science technologies. I'm a goal-oriented seasoned Data Scientist with deep affection for data insights and proven expertise in developing and deploying end-to-end, highly scalable ML models. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I'm dynamic in personality and a rapid learner who is always desperate for knowledge and wisdom.
 
 ## Technical Skills
 
