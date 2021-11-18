@@ -38,10 +38,10 @@ title: Hello World!!
 
 <span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications</span>
 <span style="float:right;margin:0 10px 0 0;">
-    <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=_oWyQ2UAAAAJ&view_op=list_works&sortby=pubdate"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-    <a target="_blank" href="https://dblp.org/pers/hd/i/Imran:Abdullah_Al"><i class="ai ai-dblp-square ai-2x"></i></a>
-    <a target="_blank" href="https://www.researchgate.net/profile/Abdullah_Al_Imran4"><i class="ai ai-researchgate-square ai-2x"></i></a>
-    <a target="_blank" href="https://orcid.org/0000-0002-3781-8178"><i class="ai ai-orcid-square ai-2x"></i></a>
+    <a target="_blank" style="background-color:#800080;" href="https://scholar.google.com/citations?hl=en&user=_oWyQ2UAAAAJ&view_op=list_works&sortby=pubdate"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+    <a target="_blank" style="background-color:#800080;" href="https://dblp.org/pers/hd/i/Imran:Abdullah_Al"><i class="ai ai-dblp-square ai-2x"></i></a>
+    <a target="_blank" style="background-color:#800080;" href="https://www.researchgate.net/profile/Abdullah_Al_Imran4"><i class="ai ai-researchgate-square ai-2x"></i></a>
+    <a target="_blank" style="background-color:#800080;" href="https://orcid.org/0000-0002-3781-8178"><i class="ai ai-orcid-square ai-2x"></i></a>
 </span>
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
