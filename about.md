@@ -38,10 +38,18 @@ This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate progr
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
 <details>
-<summary style="font-size:15px;text-align:justify;"><b>Imran, Abdullah Al</b>, Md Shamsur Rahim, and Tanvir Ahmed. <b“Mining the Productivity Data of the Garment Industry.”</b> International Journal of Business Intelligence and Data Mining. Inderscience Publishers, 2021. https://doi.org/10.1504/ijbidm.2021.118183.</summary>
+<summary style="font-size:15px;text-align:justify;"><b>Imran, Abdullah Al</b>, Md Shamsur Rahim, and Tanvir Ahmed. <b>“Mining the Productivity Data of the Garment Industry.”</b> International Journal of Business Intelligence and Data Mining. Inderscience Publishers, 2021. https://doi.org/10.1504/ijbidm.2021.118183.</summary>
 
 <p style="color:gray;font-size:14px;text-align:justify;padding:0 0 0 10px;margin:5px;">
 <b>Abstract:</b> The garment industry is one of the key examples of the industrial globalisation of this modern era. It is a highly labour-intensive industry with lots of manual processes. Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. So, it is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories. This study explores the application of state-of-the-art data mining techniques for analysing industrial data, revealing meaningful insights and predicting the productivity performance of the working teams in a garment company. As part of our exploration, we have applied eight different data mining techniques with six evaluation metrics. Our experimental results show that the tree ensemble model and gradient boosted tree model are the best performing models in the application scenario.
+</p>
+</details>
+    
+<details>
+<summary style="font-size:15px;text-align:justify;"><b>Imran, Abdullah Al</b>, and Md Nur Amin. <b>“Loan Charge-Off Prediction Including Model Explanation for Supporting Business Decisions.”</b> Advances in Intelligent Systems and Computing. Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-71187-0_119.</summary>
+
+<p style="color:gray;font-size:14px;text-align:justify;padding:0 0 0 10px;margin:5px;">
+<b>Abstract:</b> The rapid growth of taking loans and digitizing the financial sector is increasing the rate of loan charge-offs as well as the volume of data that represents customer behavior. Nowadays, Machine Learning (ML) technology is helping financial institutions utilize this huge amount of data and build some black-box prediction models for predicting loan charge-offs with decent accuracy. Yet, the amount of risk involved in such financial decisions is very high and should not be taken only based on an opaque decision of a black-box model. In this study, we propose a system for building accurate models using interpretable state-of-the-art (SOTA) ML algorithms as well as utilizing the Explainable AI (XAI) techniques to explain individual instances for supporting business decisions.
 </p>
 </details>
     
