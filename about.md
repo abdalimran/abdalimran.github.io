@@ -37,7 +37,7 @@ title: Hello World!!
 
 
 <span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications</span>
-<span style="float:right">
+<span style="float:right;margin:0 10px 0 0;">
     <i class="ai ai-google-scholar-square ai-2x"></i>
     <i class="ai ai-dblp-square ai-2x"></i>
     <i class="ai ai-researchgate-square ai-2x"></i>
