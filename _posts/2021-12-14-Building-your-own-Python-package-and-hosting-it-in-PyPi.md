@@ -31,6 +31,9 @@ packaging_tutorial/
 │       ├── __init__.py
 │       └── example.py
 └── tests/
+```
+To produce the above structure you can run the following commands.
+```
 touch LICENSE
 touch pyproject.toml
 touch setup.cfg
