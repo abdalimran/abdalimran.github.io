@@ -81,14 +81,9 @@ classifiers =
     Operating System :: OS Independent
 
 [options]
-package_dir =
-    = src
 packages = find:
-python_requires = >=3.6
-
-[options.packages.find]
-where = src
-
+python_requires = >=3.7
+include_package_data = True
 ```
 ## Running the build
 ### Make sure your build tool is up to date
