@@ -107,5 +107,19 @@ python3 -m pip install --upgrade build
 python -m build
 ```
 
-### References
+## Uploading the distribution archives to test PyPi
+```
+python3 -m pip install --upgrade twine
+python3 -m twine upload --repository testpypi dist/*
+```
+
+### Installing your newly uploaded package from test PyPi
+```
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps example-pkg-YOUR-USERNAME-HERE
+```
+
+## Uploading the distribution archives to real PyPi
+Use `twine upload dist/*` to upload your package and enter your credentials for the account you registered on the real PyPI. Now that you’re uploading the package in production, you don’t need to specify `--repository`; the package will upload to https://pypi.org/ by default.
+
+## References
 https://packaging.python.org/tutorials/packaging-projects/
