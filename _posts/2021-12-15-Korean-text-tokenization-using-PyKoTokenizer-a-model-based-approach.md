@@ -2,7 +2,7 @@
 layout: post
 title: Korean text tokenization using PyKoTokenizer - A model-based approach
 category: 
-    - "Natural language processing (NLP)"
+    - "Natural Language Processing (NLP)"
     - "Data Science"
 ---
 
