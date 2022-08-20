@@ -8,6 +8,7 @@ Nobody can memorize and remember all the functions offered by Python in its nume
 That's why while coding in Python we always refer to in google and read the documentation.
 But what if there was no google? Can we retrive the internal documentations that come with Python by default?
 Yes, we can do it. I've written the following function to generate internal documentation table of any python module.
+This function requires `pandas` package. If it's not installed in your system please use `pip install pandas` to install it.
 
 ```python
 import pandas as pd
@@ -41,3 +42,6 @@ Now you can call the `get_default_documentation` and pass the module name for wh
 ```python
 get_default_documentation(str)
 ```
+
+You can get the full list of Python Libraries from this link: [https://docs.python.org/3.7/py-modindex.html]([https://anaconda.org/conda-forge/swifter](https://docs.python.org/3.7/py-modindex.html))
+This function will also work on thrid-party libraries.
