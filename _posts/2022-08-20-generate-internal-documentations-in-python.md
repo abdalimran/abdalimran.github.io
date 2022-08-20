@@ -43,5 +43,5 @@ Now you can call the `get_default_documentation` and pass the module name for wh
 get_default_documentation(str)
 ```
 
-You can get the full list of Python Libraries from this link: [https://docs.python.org/3.7/py-modindex.html]([https://anaconda.org/conda-forge/swifter](https://docs.python.org/3.7/py-modindex.html))
+You can get the full list of Python Libraries from this link: [https://docs.python.org/3.7/py-modindex.html](https://docs.python.org/3.7/py-modindex.html)
 This function will also work on thrid-party libraries.
