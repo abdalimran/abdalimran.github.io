@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generate internal documentation table of functions and attributes in Python
+title: Generate internal documentation of functions and attributes in Python Modules
 category: 
     - "Python"
 ---
