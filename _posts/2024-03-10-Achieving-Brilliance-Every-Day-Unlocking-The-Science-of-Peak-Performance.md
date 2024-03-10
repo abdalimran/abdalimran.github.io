@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Achieving Brilliance Every Day: Unlocking The Science of Peak Performance
+title: Achieving Brilliance Every Day - Unlocking The Science of Peak Performance
 category:
     - "Productivity"
     - "Personal Development"
