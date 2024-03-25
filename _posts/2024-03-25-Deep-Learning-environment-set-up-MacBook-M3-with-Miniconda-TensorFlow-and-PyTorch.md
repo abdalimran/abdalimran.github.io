@@ -67,9 +67,16 @@ To ensure everything is set up correctly, we'll verify the installation and chec
 For TensorFlow, run:
 
 ```python
+import sys
+import keras
 import tensorflow as tf
-print("TensorFlow version:", tf.__version__)
-print("GPU is available:", tf.config.list_physical_devices('GPU'))
+import platform
+
+print(f"Python Platform: {platform.platform()}")
+print(f"Tensor Flow Version: {tf.__version__}")
+print(f"Keras Version: {keras.__version__}")
+gpu = len(tf.config.list_physical_devices("GPU")) > 0
+print("GPU is", "available" if gpu else "NOT AVAILABLE")
 ```
 
 ## Installing PyTorch
