@@ -85,7 +85,7 @@ Now, let's install PyTorch.
 
 Visit the PyTorch getting started page and select the appropriate options for your system. For a MacBook with an M3 chip, you should choose Preview (Nightly) for MPS device acceleration. Then, run the provided pip command, for example:
 
-`pip3 install torch torchvision torchaudio`
+`pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu`
 
 ## Verifying PyTorch Installation
 
