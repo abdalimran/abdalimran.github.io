@@ -184,3 +184,9 @@ title: Hello World!!
   <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="180" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://facebook.com/abdalimran" style="margin-right: 5px;"><img width="180" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </div>
+
+
+Secondary References
+--------------------
+
+{% bibliography --file secondary %}
