@@ -55,10 +55,6 @@ plugins:
   - jemoji
   - jekyll-scholar
 
-# Bibliography
-scholar:
-  style: modern-language-association
-
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
