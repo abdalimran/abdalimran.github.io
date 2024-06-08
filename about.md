@@ -5,8 +5,7 @@ title: Hello World!!
 
 <span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">This is Imran</span>, born and raised in the city of mosques, Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. I help companies make impactful data-driven decisions through utilizing and productionalizing AI and Data Science technologies. I'm a goal-oriented seasoned Data Science and Machine Learning professional with deep affection for data and proven expertise in developing and deploying end-to-end, highly scalable ML models and services. Predicting unknowns, discovering patterns, and revealing useful insights from data excites me the most. I'm dynamic in personality and a rapid learner who is always desperate for knowledge and wisdom.
 
-## Technical Skills
-
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Technical Skills</span>
 <div class='skills' style="float:left;margin:0 0 30px 0;">
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
     <a target="_blank" href=""> <img align="left" style="margin: 2px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> </a>
@@ -262,9 +261,7 @@ title: Hello World!!
 </div>
 
 
-
-## How to reach me?
-
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">How to reach me?</span>
 <div class='contacts' style="float:left;margin:0 0 30px 0;">
   <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://x.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"></a>
