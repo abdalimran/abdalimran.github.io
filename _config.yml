@@ -54,8 +54,10 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jemoji
   - jekyll-scholar
-  - open-uri
-  - nokogiri
+
+# Bibliography
+scholar:
+  style: modern-language-association
 
 
 # Permalinks
