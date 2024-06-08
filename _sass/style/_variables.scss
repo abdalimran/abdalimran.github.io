@@ -27,8 +27,12 @@ $monospaced: Menlo, Monaco, monospace;
 
 // @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 // $title-font: 'Fredericka the Great', serif;
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@500&display=swap');
-$title-font: "Josefin Slab", serif;
+
+// @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@500&display=swap');
+// $title-font: "Josefin Slab", serif; // 2.49em
+
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@700&display=swap');
+$title-font: "Quattrocento", serif;
 
 @import url("https://fonts.googleapis.com/css2?family=Cookie");
 $quote-font: 'Cookie', cursive;
