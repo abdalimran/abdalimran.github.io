@@ -3,50 +3,54 @@
   <br />
   <div class="footer-link">
     {% if site.author.facebook %}
-    <a href="https://www.facebook.com/{{ site.author.facebook }}"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/{{ site.author.facebook }}"><i class="fa-brands fa-facebook-f"
+        aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.twitter %}
-    <a target="_blank" href="https://x.com/{{ site.author.twitter }}"><i class="fa fa-x-twitter" aria-hidden="true"></i></a>
+    <a target="_blank" href="https://x.com/{{ site.author.twitter }}"><i class="fa-brands fa-x-twitter"
+        aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.github %}
-    <a target="_blank" href="https://github.com/{{ site.author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+    <a target="_blank" href="https://github.com/{{ site.author.github }}"><i class="fa-brands fa-github"
+        aria-hidden="true"></i></a>
     {% endif %}
-	
-	{% if site.author.stackoverflow %}
-    <a target="_blank" href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+
+    {% if site.author.stackoverflow %}
+    <a target="_blank" href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i
+        class="fa-brands fa-stack-overflow" aria-hidden="true"></i></a>
     {% endif %}
-	
-	{% if site.author.quora %}
-    <a target="_blank" href="https://www.quora.com/profile/{{ site.author.quora }}"><i class="fa fa-quora" aria-hidden="true"></i></a>
+
+    {% if site.author.quora %}
+    <a target="_blank" href="https://www.quora.com/profile/{{ site.author.quora }}"><i class="fa-brands fa-quora"
+        aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.linkedin %}
-    <a target="_blank" href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    <a target="_blank" href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa-brands fa-linkedin"
+        aria-hidden="true"></i></a>
     {% endif %}
-	
-	{% if site.author.googlePlus %}
-    <a target="_blank" href="https://plus.google.com/{{ site.author.googlePlus }}"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-    {% endif %}
-	
-	{% if site.author.reddit %}
-    <a target="_blank" href="https://www.reddit.com/user/{{ site.author.reddit }}"><i class="fa fa-reddit" aria-hidden="true"></i></a>
+
+
+    {% if site.author.reddit %}
+    <a target="_blank" href="https://www.reddit.com/user/{{ site.author.reddit }}"><i class="fa-brands fa-reddit"
+        aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.medium %}
-    <a target="_blank" href="https://medium.com/@{{ site.author.medium }}"><i class="fa fa-medium" aria-hidden="true"></i></a>
+    <a target="_blank" href="https://medium.com/@{{ site.author.medium }}"><i class="fa-brands fa-medium"
+        aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.rss %}
-    <a target="_blank" href="{{ site.baseurl }}{{ site.author.rss }}"><i class="fa fa-rss" aria-hidden="true"></i></a>
+    <a target="_blank" href="{{ site.baseurl }}{{ site.author.rss }}"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
     {% endif %}
 
     {% if site.author.email %}
-    <a target="_blank" href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    <a target="_blank" href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
     {% endif %}
 
   </div>
   © {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
 </footer>
-
