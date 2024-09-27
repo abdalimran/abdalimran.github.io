@@ -44,7 +44,7 @@ title: Hello World!!
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
 </div>
 
-<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications [Citations: 288, h-index: 10, i10-index: 10]</span>
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications [Citations: 314, h-index: 10, i10-index: 10]</span>
 <span style="float:right;margin:0 10px 0 0;">
     <a target="_blank" style="color:#01579B;" href="https://scholar.google.com/citations?hl=en&user=_oWyQ2UAAAAJ&view_op=list_works&sortby=pubdate"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a target="_blank" style="color:#01579B;" href="https://dblp.org/pers/hd/i/Imran:Abdullah_Al"><i class="ai ai-dblp-square ai-2x"></i></a>
@@ -53,6 +53,14 @@ title: Hello World!!
 </span>
 
 <div class='publications' style="float:left;margin:0 0 30px 0;padding: 0 10px 0 0;">
+
+<details>
+<summary style="font-size:15px;margin:0 0 10px 0;"><b>Abdullah Al Imran</b>, Md Farhan Ishmam. <a target="_blank" href="https://doi.org/10.1016/j.dib.2024.110239">"FourierKAN outperforms MLP on Text Classification Head Fine-tuning."</a> arXiv preprint arXiv:2408.08803 (2024). https://doi.org/10.48550/arXiv.2408.08803v2</summary>
+
+<p style="color:#5F6A6A;font-size:14px;text-align:justify;padding:0 0 0 10px;margin:5px;">
+<b>Abstract:</b> In resource constraint settings, adaptation to downstream classification tasks involves fine-tuning the final layer of a classifier (i.e. classification head) while keeping rest of the model weights frozen. Multi-Layer Perceptron (MLP) heads fine-tuned with pre-trained transformer backbones have long been the de facto standard for text classification head fine-tuning. However, the fixed non-linearity of MLPs often struggles to fully capture the nuances of contextual embeddings produced by pre-trained models, while also being computationally expensive. In our work, we investigate the efficacy of KAN and its variant, Fourier KAN (FR-KAN), as alternative text classification heads. Our experiments reveal that FR-KAN significantly outperforms MLPs with an average improvement of 10% in accuracy and 11% in F1-score across seven pre-trained transformer models and four text classification tasks. Beyond performance gains, FR-KAN is more computationally efficient and trains faster with fewer parameters. These results underscore the potential of FR-KAN to serve as a lightweight classification head, with broader implications for advancing other Natural Language Processing (NLP) tasks.
+</p>
+</details>
 
 <details>
 <summary style="font-size:15px;margin:0 0 10px 0;"><b>Abdullah Al Imran</b>, Md Sakib Hossain Shovon, and M. F. Mridha. <a target="_blank" href="https://doi.org/10.1016/j.dib.2024.110239">"BaitBuster-Bangla: A Comprehensive Dataset for Clickbait Detection in Bangla with Multi-Feature and Multi-Modal Analysis."</a> In Data in Brief (2024): 110239. https://doi.org/10.1016/j.dib.2024.110239</summary>
@@ -195,7 +203,7 @@ title: Hello World!!
 </details>
 
 <details>
-<summary style="font-size:15px;margin:0 0 10px 0;"><b>Al Imran, Abdullah</b>, Md. Rifatul Islam Rifat, and Rafeed Mohammad. <a target="_blank" href="https://doi.org/10.1007/978-981-13-7564-4_39">“Enhancing the Classification Performance of Lower Back Pain Symptoms Using Genetic Algorithm-Based Feature Selection.”</a> Proceedings of International Joint Conference on Computational Intelligence. Springer Singapore, July 4, 2019. https://doi.org/10.1007/978-981-13-7564-4_39.</summary>
+<summary style="font-size:15px;margin:0 0 10px 0;"><b>Abdullah Al Imran</b>, Md. Rifatul Islam Rifat, and Rafeed Mohammad. <a target="_blank" href="https://doi.org/10.1007/978-981-13-7564-4_39">“Enhancing the Classification Performance of Lower Back Pain Symptoms Using Genetic Algorithm-Based Feature Selection.”</a> Proceedings of International Joint Conference on Computational Intelligence. Springer Singapore, July 4, 2019. https://doi.org/10.1007/978-981-13-7564-4_39.</summary>
 
 <p style="color:#5F6A6A;font-size:14px;text-align:justify;padding:0 0 0 10px;margin:5px;">
 <b>Abstract:</b> Lower Back Pain (LBP) is one of the leading causes of disability around the world that affects several important parts of the human body such as the muscles, nerves, and bones of the back. The early diagnosis and proper treatment can only prevent acute LBP from infecting into chronic LBP. The aim of this study is to enhance the classification performance of LBP by identifying the most relevant feature subset from a broader feature space of an LBP dataset. To serve the aim, we have proposed a Genetic Algorithm (GA)-based feature selection approach that has been proved to significantly improve the classification performance of LBP. For the purpose of classification, we have used seven different classification algorithms, namely Logistic Regression, Ridge Regression, Gaussian Naive Bayes, Random Forest, Decision Tree, k-Nearest Neighbors (KNN), and Support Vector Machine (SVM). After applying our proposed GA-based feature selection approach along with the base classifiers, we have obtained a significant average increment in accuracy, precision, recall, f1-score, and AUC score by 3.1%, 0.64%, 4.37%, 2.64%, and 3.83% respectively. The k-Nearest Neighbors outperforms the other models with the highest accuracy (=85.2%), precision (=89.9%), and f1 score (=88.9%).
@@ -251,7 +259,7 @@ title: Hello World!!
 </details>
 
 <details>
-<summary style="font-size:15px;margin:0 0 10px 0;"><b>Al Imran, Abdullah</b>, Ananya Rahman, Humayoun Kabir, and Shamsur Rahim. <a target="_blank" href="https://doi.org/10.5815/ijitcs.2018.11.02">“The Impact of Feature Selection Techniques on the Performance of Predicting Parkinson’s Disease.”</a> International Journal of Information Technology and Computer Science. MECS Publisher, November 8, 2018. https://doi.org/10.5815/ijitcs.2018.11.02.</summary>
+<summary style="font-size:15px;margin:0 0 10px 0;"><b>Abdullah Al Imran</b>, Ananya Rahman, Humayoun Kabir, and Shamsur Rahim. <a target="_blank" href="https://doi.org/10.5815/ijitcs.2018.11.02">“The Impact of Feature Selection Techniques on the Performance of Predicting Parkinson’s Disease.”</a> International Journal of Information Technology and Computer Science. MECS Publisher, November 8, 2018. https://doi.org/10.5815/ijitcs.2018.11.02.</summary>
 
 <p style="color:#5F6A6A;font-size:14px;text-align:justify;padding:0 0 0 10px;margin:5px;">
 <b>Abstract:</b> Parkinson’s Disease (PD) is one of the leading causes of death around the world. However, there is no cure for this disease yet; only treatments after early diagnosis may help to relieve the symptoms. This study aims to analyze the impact of feature selection techniques on the performance of diagnosing PD by incorporating different data mining techniques. To accomplish this task, identifying the best feature selection approach was the primary focus. In this paper, the authors had applied five feature selection techniques namely: Gain Ratio, Kruskal-Wallis Test, Random Forest Variable Importance, RELIEF and Symmetrical Uncertainty along with four classification algorithms (K-Nearest Neighbor, Logistic Regression, Random forest, and Support Vector machine) on the PD dataset collected from the UCI Machine Learning repository. The result of this study was obtained by taking the four different subsets (Top 5, 10, 15, and 20 features) from each feature selection approach and applying the classifiers. The obtained result showed that in terms of accuracy, Random Forest Variable Importance, Gain Ratio, and Kruskal-Wallis Test techniques generated the highest 89% score. On the other hand, in terms of sensitivity, Gain Ratio and Kruskal-Walis Test approaches produced the highest 97% score. The findings of this research clearly indicated the impact of feature selection techniques on predicting PD and our applied methods outperformed the state-of-the-art performance.
