@@ -53,17 +53,17 @@ Productivity means how efficiently we create goods and services. When productivi
 ### Short-Term Debt Cycle (5–8 Years):
 These are the ups and downs we feel every few years:
 
-* Booms: Banks lend easily, so people borrow more. They buy houses, cars, and other things, causing prices to rise (inflation).
-* Bubbles: Eventually, people have borrowed too much, and prices get too high. For example, house prices might double in just a few years.
-* Busts: Banks stop lending, people stop spending, and the economy shrinks. This is called a recession.
-* Recovery: To fix the recession, central banks lower interest rates to make borrowing cheaper, starting the cycle all over again.
+* **Booms:** Banks lend easily, so people borrow more. They buy houses, cars, and other things, causing prices to rise (inflation).
+* **Bubbles:** Eventually, people have borrowed too much, and prices get too high. For example, house prices might double in just a few years.
+* **Busts:** Banks stop lending, people stop spending, and the economy shrinks. This is called a recession.
+* **Recovery:** To fix the recession, central banks lower interest rates to make borrowing cheaper, starting the cycle all over again.
 
 ### Long-Term Debt Cycle (75–100 Years):
 Over decades, debt builds up to dangerous levels:
 
-* The Boom: Everyone borrows heavily. Governments, businesses, and individuals all spend like there’s no tomorrow. This creates a false sense of wealth.
-* The Crash: Eventually, the debt becomes too much. People can’t make their payments. Businesses go bankrupt. The economy collapses.
-* The Cleanup: Governments try to fix the mess by cutting spending, printing money, or restructuring debt. But this often makes the rich even richer while ordinary people lose their savings, jobs, and homes.
+* **The Boom:** Everyone borrows heavily. Governments, businesses, and individuals all spend like there’s no tomorrow. This creates a false sense of wealth.
+* **The Crash:** Eventually, the debt becomes too much. People can’t make their payments. Businesses go bankrupt. The economy collapses.
+* **The Cleanup:** Governments try to fix the mess by cutting spending, printing money, or restructuring debt. But this often makes the rich even richer while ordinary people lose their savings, jobs, and homes.
 
 ## How the System Hurts General People
 When too much debt piles up, something has to give. Here’s how the “solutions” to economic crises often make things worse for the general people:
