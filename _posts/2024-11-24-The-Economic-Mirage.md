@@ -27,10 +27,10 @@ Let’s break this down simply so you can understand how it works and why it’s
 Credit isn’t just borrowing money—it’s a system that creates money out of thin air. Banks lend money they don’t actually have, which makes the system grow but also creates risks for the general people.
 
 ### Why People Borrow:
-Imagine you want to buy a house, but it costs &#36;300,000, and you don’t have that much saved. A bank offers you a loan (credit) so you can buy the house now and pay them back over 30 years. This sounds good at first, but by the time you’ve finished paying, you’ll have paid the bank closer to &#36;500,000 because of interest. That extra &#36;200,000 is the cost of borrowing.
+Imagine you want to buy a house, but it costs &dollar;300,000, and you don’t have that much saved. A bank offers you a loan (credit) so you can buy the house now and pay them back over 30 years. This sounds good at first, but by the time you’ve finished paying, you’ll have paid the bank closer to &dollar;500,000 because of interest. That extra &dollar;200,000 is the cost of borrowing.
 
 ### Why Banks Lend:
-Banks lend money because they make money from interest. For every loan, they collect payments for years, sometimes decades. What many people don’t know is that most of the money they lend doesn’t exist until the loan is created. This process, called fractional-reserve banking, allows banks to lend much more than they actually hold. For example, if a bank has &#36;10,000, it can legally lend out &#36;100,000. They profit from the interest on money that wasn’t theirs to begin with.
+Banks lend money because they make money from interest. For every loan, they collect payments for years, sometimes decades. What many people don’t know is that most of the money they lend doesn’t exist until the loan is created. This process, called fractional-reserve banking, allows banks to lend much more than they actually hold. For example, if a bank has &dollar;10,000, it can legally lend out &dollar;100,000. They profit from the interest on money that wasn’t theirs to begin with.
 
 ### Interest Rates—A Clever Trick:
 
