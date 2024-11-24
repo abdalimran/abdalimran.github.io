@@ -75,7 +75,7 @@ Governments cut budget from public services like healthcare and education to sav
 Banks and businesses renegotiate loans to lower payments, but this often means small businesses and workers still lose jobs, while big corporations survive.
 
 ### Money Printing:
-Central banks create new money to stimulate the economy, but this mostly helps the wealthy. For example, when central banks print money, stock prices rise. Who owns stocks? The rich. It also increase inflation and decrease the currecy value.
+Central banks create new money to stimulate the economy, but this mostly helps the wealthy. For example, when central banks print money, stock prices rise. Who owns stocks? The rich. It also increase inflation and decrease the currency value.
 
 ### Wealth Redistribution:
 This sounds fair—take money from the rich and give it to the poor. But in practice, these programs are often too small to make a real difference or are blocked by political systems controlled by the wealthy.
