@@ -29,7 +29,7 @@ He emphasizes that achieving human-level AI demands **novel paradigms** beyond t
 
 ### **The Future of Human-Digital Interaction**
 
-**AI Assistants as Mediators**: All interactions with the digital world will soon be mediated by AI systems that understand, reason, and plan.
+**AI Assistants as Mediators**: All interactions with the digital world will soon be mediated by AI assistant that understand, reason, and plan.
 
 **Human-Level Intelligence Requirements**:
 
