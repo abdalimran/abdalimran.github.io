@@ -21,7 +21,7 @@ Professor LeCun's central argument is that current approaches, especially relyin
 
 Notably, Professor LeCun expressed his preference for the term `Advanced Machine Intelligence (AMI)` over `Artificial General Intelligence (AGI)`.
 
-He points out the misconception that LLMs could soon reach PhD-level capabilities, comparing it to a recurring mistake in AI history. For example, Newell and Simon’s belief in systematic search as the path to intelligence failed due to the overwhelming complexity of real-world problems. Similarly, today’s focus on pattern recognition falls short. In his view, true intelligence involves non-trivial problem-solving in open-ended, unpredictable environments, which cannot be reduced to brute-force search or shallow pattern recognition.
+He pointed out that the belief that LLMs could soon reach PhD-level capabilities is FALSE. He frames this as part of a recurring mistake in AI history spanning over 70 years: from Newell & Simon proposing systematic search as a path to general intelligence (which failed due to exponential complexity in real-world problems), to today's overreliance on pattern recognition. In his view, true intelligence involves non-trivial problem-solving in open-ended, unpredictable environments, which cannot be reduced to brute-force search or shallow pattern recognition.
 
 He emphasizes that achieving human-level AI demands **novel paradigms** beyond today’s LLMs, addressing gaps in world modeling, reasoning, and safety.
 
