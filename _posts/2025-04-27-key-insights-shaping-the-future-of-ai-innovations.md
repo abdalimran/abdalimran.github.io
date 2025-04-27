@@ -9,7 +9,7 @@ category:
     - "Future of AI"
     - "Talk"
 ---
-It was a privilege to attend today's NUS120 Distinguished Speaker Series at the National University of Singapore, where Professor Yann LeCun shared some truly insightful perspectives. In this post, I'll try to summarize some key insights I learned from his talk.
+It was a privilege to attend today's NUS120 Distinguished Speaker Series at the National University of Singapore, where Professor Yann LeCun shared some truly insightful perspectives on AI and it's future. In this post, I'll try to summarize some key insights I learned from his talk.
 
 ![alt text](/images/yunn-lecun-imran-nus120.jpg "Professor Yunn LeCun")
 
