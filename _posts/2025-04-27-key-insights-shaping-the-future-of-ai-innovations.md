@@ -11,7 +11,7 @@ category:
 ---
 It was a privilege to attend today's NUS120 Distinguished Speaker Series at the National University of Singapore, where Professor Yann LeCun shared some truly insightful perspectives. In this post, I'll try to summarize some key insights I learned from his talk.
 
-![alt text](/images/images/yunn-lecun-imran-nus120.jpg "Professor Yunn LeCun")
+![alt text](images/yunn-lecun-imran-nus120.jpg "Professor Yunn LeCun")
 
 ---
 
@@ -53,7 +53,7 @@ He emphasizes that achieving human-level AI demands **novel paradigms** beyond t
 
 **Data Limitations**:
 
-- **LLMs vs. Human Children**: A 4-year-old processes $~1.1E14 bytes$ of visual data (via optical nerves), surpassing even the largest LLMs (trained on $~0.9E14$ bytes of text).
+- **LLMs vs. Human Children**: A 4-year-old processes $~1.1E14$ bytes of visual data (via optical nerves), surpassing even the largest LLMs (trained on $~0.9E14$ bytes of text).
 - **Sensory Learning Gap**: LLMs miss the rich, continuous sensory input humans use to build mental models.
 
 **Scaling and Probabilistic Models:**
