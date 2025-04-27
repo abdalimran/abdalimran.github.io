@@ -112,3 +112,5 @@ Professor LeCun outlines the following essential characteristics for future AI s
 ---
 
 In essence, Professor LeCun advocates for a fundamental rethinking of AI architectures, moving away from the dominant paradigm of auto-regressive language models towards systems that learn rich, continuous world models from sensory experience and perform inference through optimization rather than simple feed-forward propagation.
+
+Professor LeCun referred to his paper "[A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)" where he distilled many of his ideas on AI and Advanced Machine Intelligence (AMI).
