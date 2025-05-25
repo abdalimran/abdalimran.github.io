@@ -271,8 +271,8 @@ title: Hello World!!
 
 <span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">How to reach me?</span>
 <div class='contacts' style="float:left;margin:0 0 30px 0;">
-  <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://x.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a target="_blank" href="mailto:abdalimran@gmail.com" style="margin-right: 5px;"><img width="250" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/abdalimran@gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://x.com/AbdullahAlImran" style="margin-right: 5px;"><img width="200" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/AbdullahAlImran-%23000000.svg?logo=X&logoColor=white"></a>
   <a target="_blank" href="https://linkedin.com/in/abdalimran" style="margin-right: 5px;"><img width="180" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://custom-icon-badges.demolab.com/badge/ABDALIMRAN-0A66C2?logo=linkedin-white&logoColor=fff"></a>
   <a target="_blank" href="https://facebook.com/abdalimran" style="margin-right: 5px;"><img width="180" height="35" style="margin-right:5px;border-radius:50px" align="left" src="https://img.shields.io/badge/ABDALIMRAN-%231877F2.svg?logo=Facebook&logoColor=white"></a>
 </div>
