@@ -44,7 +44,7 @@ title: Hello World!!
     <a target="_blank" href=""> <img align="left" style="margin-right: 2px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
 </div>
 
-<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications [Citations: 314, h-index: 10, i10-index: 10]</span>
+<span style="font-family:sans-serif;font-size: 1.5rem;font-weight: bolder;">Publications [Citations: 378, h-index: 11, i10-index: 13]</span>
 <span style="float:right;margin:0 10px 0 0;">
     <a target="_blank" style="color:#01579B;" href="https://scholar.google.com/citations?hl=en&user=_oWyQ2UAAAAJ&view_op=list_works&sortby=pubdate"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a target="_blank" style="color:#01579B;" href="https://dblp.org/pers/hd/i/Imran:Abdullah_Al"><i class="ai ai-dblp-square ai-2x"></i></a>
